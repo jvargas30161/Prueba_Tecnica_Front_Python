@@ -1,0 +1,13 @@
+
+Upython:S1124">Replace this generic exception class with a more specific one.(çé À
+npython:S116R"RRename this field "socksProxy" to match the regular expression ^[_a-z][_a-z0-9]*$.(ËøåËûÿÿÿÿ
+lpython:S116S"URename this field "socksUsername" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ñ¦Ï›
+lpython:S116T"URename this field "socksPassword" to match the regular expression ^[_a-z][_a-z0-9]*$.(¹”„ü
+hpython:S116K"QRename this field "proxyType" to match the regular expression ^[_a-z][_a-z0-9]*$.(¸…•þ
+hpython:S116N"QRename this field "httpProxy" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ž¤Œµ
+gpython:S116M"PRename this field "ftpProxy" to match the regular expression ^[_a-z][_a-z0-9]*$.(Â’Üö
+qpython:S116P"ZRename this field "proxyAutoconfigUrl" to match the regular expression ^[_a-z][_a-z0-9]*$.(á€°â
+kpython:S116U"TRename this field "socksVersion" to match the regular expression ^[_a-z][_a-z0-9]*$.(îŽêì
+fpython:S116O"ORename this field "noProxy" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬þ¢š
+lpython:S116Q"PRename this field "sslProxy" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÿúÏÂÿÿÿÿÿ
+rpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¯öÇÅúÿÿÿÿ

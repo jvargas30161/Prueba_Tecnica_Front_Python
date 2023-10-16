@@ -1,0 +1,16 @@
+
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¯Õ¶şÿÿÿÿ
+.python:S6659E"Use `startswith` here.(ÇÍ«Ó
+.python:S6659J"Use `startswith` here.(¾œÅÉ
+.python:S6659T"Use `startswith` here.(ÿŒá‚
+-python:S6659W"Use `startswith` here.(³ÒÊ
+.python:S6659]"Use `startswith` here.(¨À
+gpython:S5655`"JChange this argument; Function "get_platform_osx" expects a different type(¨ÁÚşÿÿÿÿ
+[python:S6353›"BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(ÎóËú
+mpython:S3776·"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥©ãß
+Mpython:S1172õ"/Remove the unused function parameter "verbose".(¯ôÔŞşÿÿÿÿ
+-python:S6659€"Use `endswith` here.(ğ’Ÿ—
+rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(›‹Ò’úÿÿÿÿ
+apython:S5445Ö"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(Î×ıúÿÿÿÿ
+<python:S125î"Remove this commented out code.(áÆÙŞüÿÿÿÿ
+<python:S6659‰"Use `not` and `endswith` here.(íñÙøÿÿÿÿ

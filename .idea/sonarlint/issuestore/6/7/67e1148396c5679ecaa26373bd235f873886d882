@@ -1,0 +1,9 @@
+
+gpython:S1192¤"NDefine a constant instead of duplicating this literal "manifest.json" 3 times.(ò¥ŸÚ
+™python:S1845>"|Rename field "default_preferences" to prevent any misunderstanding/clash with field "DEFAULT_PREFERENCES" defined on line 44(ÓÜà»ûÿÿÿÿ
+kpython:S116L"URename this field "extensionsDir" to match the regular expression ^[_a-z][_a-z0-9]*$.(ü´³h
+hpython:S116M"QRename this field "userPrefs" to match the regular expression ^[_a-z][_a-z0-9]*$.(£âšğ
+mpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÛÒÈé
+mpython:S3776é"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(Æõ¼ã
+Ipython:S5806"+Rename this variable; it shadows a builtin.(©„ÚÒùÿÿÿÿ
+Rpython:S1135¡"4Complete the task associated to this "TODO" comment.(ÇĞÂ“ıÿÿÿÿ

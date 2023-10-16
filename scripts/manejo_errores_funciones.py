@@ -33,21 +33,21 @@ def tomar_screenshot(driver, nombre_archivo):
 
 def manejar_errores(driver):
     try:
-        # Encuentra el elemento por su selector CSS (ejemplo: #W0wltc > div)
+        # Encuentra el elemento por selector CSS (ejemplo: #W0wltc > div)
         element = driver.find_element(By.CSS_SELECTOR, "#W0wltc > div")
         element.click()
 
         busqueda = obtener_texto_desde_archivo()
         if busqueda is not None:
-            # Encuentra el elemento por su selector CSS (#APjFqb) y escribe el contenido del archivo JSON
+            # Encuentra el elemento por su selector CSS (#APjFqb) y escribe el contenido del JSON
             element_to_fill = driver.find_element(By.CSS_SELECTOR, "#APjFqb")
             element_to_fill.send_keys(busqueda)
 
-            # Envía la tecla "Enter" para realizar la búsqueda
+            # "Enter" para realizar la búsqueda
             element_to_fill.send_keys(Keys.RETURN)
             time.sleep(5)
 
-            # Encuentra el enlace que contiene el texto "automatización Wikipedia" y haz clic en él
+            # Encuentra enlace que contiene el texto "automatización Wikipedia"
             enlace_wikipedia = driver.find_element(By.PARTIAL_LINK_TEXT, "https://es.wikipedia")
             time.sleep(5)
             enlace_wikipedia.click()
@@ -55,7 +55,7 @@ def manejar_errores(driver):
 
         buscar_texto_en_pagina(driver, "convirtiéndose en el primer proceso industrial completamente automatizado")
 
-        # Tomar un screenshot de la página de Wikipedia
+        # screenshot de la página de Wikipedia
         tomar_screenshot(driver, "screenshot.png")
 
     except Exception as e:

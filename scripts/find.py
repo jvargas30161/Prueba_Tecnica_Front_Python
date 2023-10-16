@@ -3,7 +3,7 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from manejo_errores_funciones import manejar_errores   # Importa la función desde el archivo
+from manejo_errores_funciones import manejar_errores   # Importa la función desde archivo
 
 
 # Ruta del archivo ejecutable de ChromeDriver

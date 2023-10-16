@@ -1,0 +1,5 @@
+
+lpython:S1192F"ODefine a constant instead of duplicating this literal "runtime.enable" 3 times.(·¦‘øÿÿÿÿ
+dpython:S1192D"LDefine a constant instead of duplicating this literal "page.enable" 3 times.(Àõ‡Ô
+rpython:S5886Q"ZAnnotate function "mutation_events" with "typing.AsyncGenerator" or one of its supertypes.(†şÇ¦
+upython:S5886‹"WAnnotate function "add_listener" with "typing.AsyncGenerator" or one of its supertypes.(…µ“ÿÿÿÿÿ

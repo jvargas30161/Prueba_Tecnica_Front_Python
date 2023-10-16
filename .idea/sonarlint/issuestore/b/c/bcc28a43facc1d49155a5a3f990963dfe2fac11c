@@ -1,0 +1,6 @@
+
+lpython:S3776%"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(²áš
+Cpython:S5806,"+Rename this variable; it shadows a builtin.(Ó‹‰÷
+Kpython:S1481Ñ"-Replace unused local variable "sep" with "_".(¥´‰åûÿÿÿÿ
+mpython:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÈÀÅœ
+Dpython:S5806Ò"+Rename this variable; it shadows a builtin.(®æ½ú

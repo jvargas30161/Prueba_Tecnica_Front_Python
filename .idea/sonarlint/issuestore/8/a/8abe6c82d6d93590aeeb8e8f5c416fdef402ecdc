@@ -1,0 +1,16 @@
+
+Hpython:S1066ÿ"/Merge this if statement with the enclosing one.(˜§Á¯
+Epython:S1940&"-Use the opposite operator ("not in") instead.(¢Àá•
+Ipython:S11729"1Remove the unused function parameter "can_delay".(Æú¢ 
+rpython:S117;"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚û»’ùÿÿÿÿ
+spython:S117>"WRename this local variable "BType2" to match the regular expression ^[_a-z][a-z0-9_]*$.(™Áüÿÿÿÿ
+Apython:S1940P")Use the opposite operator ("!=") instead.( È×
+spython:S117˜"VRename this local variable "BItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(à‚ÿÿÿÿÿ
+tpython:S1542Ÿ"VRename function "ConstPointerType" to match the regular expression ^[a-z_][a-z0-9_]*$.(“ŸÖäùÿÿÿÿ
+qpython:S117Ë"YRename this local variable "BPtrItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷µšÙ
+spython:S117˜"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(øä’÷úÿÿÿÿ
+xpython:S117Ë"[Rename this local variable "BFieldType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü×Ö˜ùÿÿÿÿ
+rpython:S117Á"ZRename this local variable "BItemType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í
+spython:S117¤"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚û»’ùÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(•´·˜
+ipython:S117ô"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Üå–

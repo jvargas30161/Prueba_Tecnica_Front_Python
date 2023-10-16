@@ -1,0 +1,44 @@
+
+spython:S1192h"[Define a constant instead of duplicating this literal "Unable to allocate memory!" 4 times.(Ÿœ‘°
+Upython:S5754q"8Catch a more specific exception or reraise the exception(ê¥Ð…úÿÿÿÿ
+<python:S125£"Remove this commented out code.(ô—û¦úÿÿÿÿ
+zpython:S116¾"bRename this field "kSecTrustResultUnspecified" to match the regular expression ^[_a-z][_a-z0-9]*$.(¾ä¼ˆ
+spython:S116´"VRename this field "kSSLClientSide" to match the regular expression ^[_a-z][_a-z0-9]*$.(ôìêÂøÿÿÿÿ
+|python:S116É"_Rename this field "errSSLXCertChainInvalid" to match the regular expression ^[_a-z][_a-z0-9]*$.(£Œ»êùÿÿÿÿ
+zpython:S116Ø"]Rename this field "errSecNoTrustSettings" to match the regular expression ^[_a-z][_a-z0-9]*$.(ø¯‡Åúÿÿÿÿ
+npython:S116¯"VRename this field "kTLSProtocol12" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÙÎŸý
+qpython:S116Ì"YRename this field "errSSLCertExpired" to match the regular expression ^[_a-z][_a-z0-9]*$.(×¹í„
+spython:S116µ"VRename this field "kSSLStreamType" to match the regular expression ^[_a-z][_a-z0-9]*$.(û·–‘üÿÿÿÿ
+upython:S116·"]Rename this field "kSecFormatPEMSequence" to match the regular expression ^[_a-z][_a-z0-9]*$.(Âàø
+ypython:S116Ô"aRename this field "errSSLServerAuthCompleted" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ñ¤¯
+†python:S116¿"nRename this field "kSecTrustResultRecoverableTrustFailure" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÒÅ„ž
+ypython:S116Õ"\Rename this field "errSSLRecordOverflow" to match the regular expression ^[_a-z][_a-z0-9]*$.(‘•ÍËþÿÿÿÿ
+{python:S116º"^Rename this field "kSecTrustResultProceed" to match the regular expression ^[_a-z][_a-z0-9]*$.(©¡ØÛýÿÿÿÿ
+{python:S116Ð"^Rename this field "errSSLHostNameMismatch" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÑÝ¡œùÿÿÿÿ
+rpython:S116×"ZRename this field "errSecVerifyFailed" to match the regular expression ^[_a-z][_a-z0-9]*$.(šëü
+upython:S116Î"]Rename this field "errSSLUnknownRootCert" to match the regular expression ^[_a-z][_a-z0-9]*$.(îµÿ¹
+spython:S116½"[Rename this field "kSecTrustResultDeny" to match the regular expression ^[_a-z][_a-z0-9]*$.(«©Íã
+~python:S116Á"aRename this field "kSecTrustResultOtherError" to match the regular expression ^[_a-z][_a-z0-9]*$.(þúçòÿÿÿÿÿ
+ypython:S116Å"\Rename this field "errSSLClosedGraceful" to match the regular expression ^[_a-z][_a-z0-9]*$.(¢¸Ùúþÿÿÿÿ
+python:S116Ó"dRename this field "errSSLWeakPeerEphemeralDHKey" to match the regular expression ^[_a-z][_a-z0-9]*$.(æ®°´ûÿÿÿÿ
+|python:S116Ò"_Rename this field "errSSLPeerUserCancelled" to match the regular expression ^[_a-z][_a-z0-9]*$.(½‘Ðèþÿÿÿÿ
+ppython:S116Ç"YRename this field "errSSLClosedAbort" to match the regular expression ^[_a-z][_a-z0-9]*$.(ãõö
+…python:S116À"hRename this field "kSecTrustResultFatalTrustFailure" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶ä”¼úÿÿÿÿ
+rpython:S116­"URename this field "kTLSProtocol1" to match the regular expression ^[_a-z][_a-z0-9]*$.(Òƒ£êúÿÿÿÿ
+tpython:S116Æ"\Rename this field "errSSLClosedNoNotify" to match the regular expression ^[_a-z][_a-z0-9]*$.(”þšÃ
+npython:S116±"VRename this field "kTLSProtocol13" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰ƒ€Þ
+spython:S116Ã"VRename this field "errSSLProtocol" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÆØ¸‰úÿÿÿÿ
+‚python:S116©"jRename this field "kSSLSessionOptionBreakOnServerAuth" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ï±Àê
+wpython:S116Ñ"_Rename this field "errSSLPeerHandshakeFail" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÞÉû¤
+}python:S116²"`Rename this field "kTLSProtocolMaxSupported" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÆÑ“³üÿÿÿÿ
+upython:S116Í"]Rename this field "errSSLCertNotYetValid" to match the regular expression ^[_a-z][_a-z0-9]*$.(š›´
+rpython:S116«"URename this field "kSSLProtocol2" to match the regular expression ^[_a-z][_a-z0-9]*$.(’Ëò¥ýÿÿÿÿ
+upython:S116Ä"XRename this field "errSSLWouldBlock" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ…©þÿÿÿÿ
+npython:S116®"VRename this field "kTLSProtocol11" to match the regular expression ^[_a-z][_a-z0-9]*$.(³’Øù
+vpython:S116¹"^Rename this field "kSecTrustResultInvalid" to match the regular expression ^[_a-z][_a-z0-9]*$.(Âþµ
+zpython:S116Ú"bRename this field "errSecInvalidTrustSettings" to match the regular expression ^[_a-z][_a-z0-9]*$.( Ý…ï
+npython:S116Ë"VRename this field "errSSLInternal" to match the regular expression ^[_a-z][_a-z0-9]*$.(¨ÓÔ
+ppython:S116Ï"XRename this field "errSSLNoRootCert" to match the regular expression ^[_a-z][_a-z0-9]*$.( ¯Ò…
+qpython:S116Ù"ZRename this field "errSecItemNotFound" to match the regular expression ^[_a-z][_a-z0-9]*$.(¹´Ï
+mpython:S116¬"URename this field "kSSLProtocol3" to match the regular expression ^[_a-z][_a-z0-9]*$.(á†­—
+qpython:S116Ê"TRename this field "errSSLCrypto" to match the regular expression ^[_a-z][_a-z0-9]*$.(éãöÿÿÿÿÿ

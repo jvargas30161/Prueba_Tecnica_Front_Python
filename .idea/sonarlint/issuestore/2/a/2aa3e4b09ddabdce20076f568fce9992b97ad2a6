@@ -1,0 +1,72 @@
+
+upython:S1192Ó"WDefine a constant instead of duplicating this literal 'Unable to build parser' 4 times.(®’Î±ÿÿÿÿÿ
+dpython:S1192§"FDefine a constant instead of duplicating this literal '%prec' 4 times.(¹›¨íüÿÿÿÿ
+`python:S1192•"HDefine a constant instead of duplicating this literal '<empty>' 4 times.(¬Î‚(
+‚python:S1192ó"jDefine a constant instead of duplicating this literal 'yacc: Syntax error at line %d, token=%s\n' 3 times.(ÿĞşw
+{python:S1192÷"bDefine a constant instead of duplicating this literal 'yacc: Parse error in input. EOF\n' 3 times.(Ÿ‹áİ
+zpython:S1192¶"aDefine a constant instead of duplicating this literal 'yacc: internal parser error!!!\n' 3 times.(æ‰óÖ
+vpython:S1192õ"]Define a constant instead of duplicating this literal 'yacc: Syntax error, token=%s' 3 times.(İíÇ–
+Mpython:S1066ù"/Merge this if statement with the enclosing one.(¡àúÿÿÿÿÿ
+Mpython:S1066"/Merge this if statement with the enclosing one.(Æ”é«şÿÿÿÿ
+Hpython:S1066„"/Merge this if statement with the enclosing one.(Ü¿°ó
+Mpython:S1066Œ"/Merge this if statement with the enclosing one.(Î£¯Ìıÿÿÿÿ
+Mpython:S1066"/Merge this if statement with the enclosing one.(´Œ‚­ûÿÿÿÿ
+Gpython:S1066İ"/Merge this if statement with the enclosing one.(êöå
+Hpython:S1066Ç"/Merge this if statement with the enclosing one.(®®ış
+Fpython:S1172v".Remove the unused function parameter "kwargs".(›ıÅß
+Kpython:S1172y".Remove the unused function parameter "kwargs".(¾ñŸçıÿÿÿÿ
+npython:S3776ç"URefactor this function to reduce its Cognitive Complexity from 144 to the 15 allowed.(ÔáèÑ
+Fpython:S1172Â"-Remove the unused function parameter "debug".(Í¿šÜ
+npython:S3776Â"URefactor this function to reduce its Cognitive Complexity from 139 to the 15 allowed.(Í¿šÜ
+Fpython:S1172î"-Remove the unused function parameter "debug".(ÄÛÊÛ
+Ipython:S1172î"0Remove the unused function parameter "tracking".(ÄÛÊÛ
+npython:S3776î"URefactor this function to reduce its Cognitive Complexity from 120 to the 15 allowed.(ÄÛÊÛ
+spython:S116ã"VRename this field "UsedPrecedence" to match the regular expression ^[_a-z][_a-z0-9]*$.(ò¡Œòùÿÿÿÿ
+ipython:S116Ë"QRename this field "Prodnames" to match the regular expression ^[_a-z][_a-z0-9]*$.(ğ¹ØÉ
+ppython:S116Ç"SRename this field "Productions" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ç½äıÿÿÿÿ
+qpython:S116Ù"TRename this field "Nonterminals" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÙÛäÖûÿÿÿÿ
+jpython:S116Ü"MRename this field "First" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿ñÑúÿÿÿÿ
+npython:S116Ñ"QRename this field "Terminals" to match the regular expression ^[_a-z][_a-z0-9]*$.(ñíÂêıÿÿÿÿ
+epython:S116ç"MRename this field "Start" to match the regular expression ^[_a-z][_a-z0-9]*$.(»Íúé
+kpython:S116Ş"NRename this field "Follow" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ã”ø´ÿÿÿÿÿ
+lpython:S116Î"ORename this field "Prodmap" to match the regular expression ^[_a-z][_a-z0-9]*$.(†ß§¼ûÿÿÿÿ
+jpython:S116à"RRename this field "Precedence" to match the regular expression ^[_a-z][_a-z0-9]*$.(¹Šù±
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(„¬ñY
+Ipython:S5806¾"+Rename this variable; it shadows a builtin.(€­¶¨øÿÿÿÿ
+mpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(š’¦œ
+rpython:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ùòàûÿÿÿÿ
+rpython:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(²Öõ›øÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¨°Ó×
+epython:S117‹"NRename this parameter "FP" to match the regular expression ^[_a-z][a-z0-9_]*$.(–İìC
+dpython:S117‹"MRename this parameter "R" to match the regular expression ^[_a-z][a-z0-9_]*$.(–İìC
+dpython:S117‹"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(–İìC
+epython:S117—"MRename this parameter "F" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã—òú
+fpython:S117—"NRename this parameter "FP" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã—òú
+epython:S117—"MRename this parameter "N" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã—òú
+epython:S117—"MRename this parameter "R" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã—òú
+epython:S117—"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ã—òú
+jpython:S117à"MRename this parameter "I" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹¹²·ÿÿÿÿÿ
+epython:S117ú"MRename this parameter "I" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ÔÆ½
+lpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Åõ÷k
+jpython:S117ò"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(äô÷Çùÿÿÿÿ
+Npython:S1172†"0Remove the unused function parameter "nullable".(ƒşãÜıÿÿÿÿ
+jpython:S117†"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒşãÜıÿÿÿÿ
+Hpython:S1481‡"*Remove the unused local variable "dr_set".(¹—Ñ™úÿÿÿÿ
+jpython:S117Ÿ"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(æóÄãùÿÿÿÿ
+jpython:S117Ê"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀµŞùÿÿÿÿ
+rpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(ÀµŞùÿÿÿÿ
+dpython:S117š"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ×›G
+jpython:S117Ô"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã‘Öÿÿÿÿÿ
+xpython:S117î"[Rename this local variable "Precedence" to match the regular expression ^[_a-z][a-z0-9_]*$.(—òÄûÿÿÿÿ
+ypython:S117í"\Rename this local variable "Productions" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ŞºÁøÿÿÿÿ
+Hpython:S1481¥"/Replace unused local variable "sprec" with "_".(âÑ¥ÿ
+npython:S3776ì"URefactor this function to reduce its Cognitive Complexity from 187 to the 15 allowed.(¤µæ
+Kpython:S1940"-Use the opposite operator ("not in") instead.(´Œ‚­ûÿÿÿÿ
+Cpython:S1481"%Remove the unused local variable "e".(„¨Úúÿÿÿÿ
+mpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÌŸ¸‡
+qpython:S2737"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
+mpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¢¢¿»
+Zpython:S6353À"BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(ïÄŞW
+mpython:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(í»Àˆ
+mpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(˜½ ƒ
+npython:S3776˜"URefactor this function to reduce its Cognitive Complexity from 102 to the 15 allowed.(Ç¸…

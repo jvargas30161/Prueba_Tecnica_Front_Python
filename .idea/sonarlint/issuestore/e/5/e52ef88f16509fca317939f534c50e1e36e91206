@@ -1,0 +1,6 @@
+
+apython:S1192Õ"HDefine a constant instead of duplicating this literal "bar.txt" 6 times.(ò´‰İ
+gpython:S1192Ô"IDefine a constant instead of duplicating this literal "_bar.txt" 3 times.(¬ÈÎúÿÿÿÿ
+Apython:S1940/")Use the opposite operator ("==") instead.(Ñ´ïí
+@python:S19407")Use the opposite operator ("!=") instead.(ŠÇ¤S
+Apython:S19408")Use the opposite operator ("!=") instead.(îÒÁ¥

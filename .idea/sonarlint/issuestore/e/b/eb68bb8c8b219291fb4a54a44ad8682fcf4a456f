@@ -1,0 +1,30 @@
+
+ipython:S1192{"QDefine a constant instead of duplicating this literal '    return NULL;' 3 times.(ê±®Ù
+^python:S1192÷"FDefine a constant instead of duplicating this literal '  %s;' 4 times.(¹ôès
+qpython:S1192ë"SDefine a constant instead of duplicating this literal '_cffi_layout_%s_%s' 3 times.(Ñ ¹Ùÿÿÿÿÿ
+mpython:S1192‘"ODefine a constant instead of duplicating this literal '    return -1;' 3 times.(öÂâ‡şÿÿÿÿ
+kpython:S1192Ÿ"MDefine a constant instead of duplicating this literal '  return %s;' 3 times.(ëŒğŠúÿÿÿÿ
+qpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Õ€ªã
+rpython:S1186ï"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¹œåº
+Epython:S1172Ö",Remove the unused function parameter "name".(¿µÔÊ
+mpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨Œ³ş
+Gpython:S1172Õ".Remove the unused function parameter "module".(¾ıå´
+Epython:S1172Õ",Remove the unused function parameter "name".(¾ıå´
+Epython:S1172Õ",Remove the unused function parameter "kwds".(¾ıå´
+Epython:S1172ä",Remove the unused function parameter "kwds".(±íş
+Epython:S1172ä",Remove the unused function parameter "name".(±íş
+Gpython:S1172ä".Remove the unused function parameter "module".(±íş
+rpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ûè°´ûÿÿÿÿ
+Dpython:S5806¦"+Rename this variable; it shadows a builtin.(€œ¾¶
+tpython:S117Ï"WRename this local variable "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¦Üªúÿÿÿÿ
+ppython:S117Ä"XRename this local variable "BStruct" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿæ£€
+Gpython:S1481Å"/Replace unused local variable "cname" with "_".(ğÔ¶$
+Epython:S1172¤",Remove the unused function parameter "name".(½éÂ
+Epython:S1172ã",Remove the unused function parameter "name".(™¥Ää
+Jpython:S1172ê",Remove the unused function parameter "name".(ëˆïıÿÿÿÿ
+Lpython:S1172ê".Remove the unused function parameter "module".(ëˆïıÿÿÿÿ
+Epython:S1172€",Remove the unused function parameter "name".(Ôä÷
+7python:S125ı"Remove this commented out code.(ãàëµ
+Gpython:S1172“".Remove the unused function parameter "module".(Àş›Ò
+tpython:S117¤"WRename this local variable "BArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(°È‘ıùÿÿÿÿ
+rpython:S117š"ZRename this local variable "BItemType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÖã¶

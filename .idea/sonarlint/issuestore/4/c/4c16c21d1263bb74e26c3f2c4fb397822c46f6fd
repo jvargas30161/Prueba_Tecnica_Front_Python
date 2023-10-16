@@ -1,0 +1,13 @@
+
+rpython:S1542c"URename function "test_MultiError" to match the regular expression ^[a-z_][a-z0-9_]*$.(íüñ÷øÿÿÿÿ
+„python:S1542s"gRename function "test_MultiErrorOfSingleMultiError" to match the regular expression ^[a-z_][a-z0-9_]*$.(Öî Üıÿÿÿÿ
+}python:S1542}"`Rename function "test_MultiErrorNotHashable" to match the regular expression ^[a-z_][a-z0-9_]*$.(™¦–Ïşÿÿÿÿ
+python:S1542Š"hRename function "test_MultiError_filter_NotHashable" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆĞµØ
+ppython:S1542"WRename function "handle_ValueError" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷ÙûÆ
+Vpython:S5754ª"8Catch a more specific exception or reraise the exception(Àùœ§úÿÿÿÿ
+zpython:S1542¼"\Rename function "test_MultiError_filter" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œèµ€øÿÿÿÿ
+opython:S1542ş"VRename function "filter_NameError" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕÒŸˆ
+ypython:S1542‘"[Rename function "test_MultiError_catch" to match the regular expression ^[a-z_][a-z0-9_]*$.(™ÀÕúÿÿÿÿ
+Apython:S108˜")Either remove or fill this block of code.(ã‘Û¾
+vpython:S1542Û"XRename function "catch_RuntimeError" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Á·úÿÿÿÿ
+‘python:S1542ë"xRename function "test_MultiError_catch_doesnt_create_cyclic_garbage" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö¬ˆ

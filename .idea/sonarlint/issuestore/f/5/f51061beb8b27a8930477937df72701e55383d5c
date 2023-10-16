@@ -1,0 +1,29 @@
+
+fpython:S1542!"NRename function "t_CPP_WS" to match the regular expression ^[a-z_][a-z0-9_]*$.(õŸÙœ
+ipython:S1542/"QRename function "CPP_INTEGER" to match the regular expression ^[a-z_][a-z0-9_]*$.(úü†ª
+opython:S1542;"RRename function "t_CPP_STRING" to match the regular expression ^[a-z_][a-z0-9_]*$.(ËŞ…ùÿÿÿÿ
+hpython:S1542B"PRename function "t_CPP_CHAR" to match the regular expression ^[a-z_][a-z0-9_]*$.(ïªûû
+qpython:S1542I"TRename function "t_CPP_COMMENT1" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼Á„èûÿÿÿÿ
+lpython:S1542T"TRename function "t_CPP_COMMENT2" to match the regular expression ^[a-z_][a-z0-9_]*$.(Íµ¦ù
+ipython:S116†"QRename this field "t_NEWLINE" to match the regular expression ^[_a-z][_a-z0-9]*$.(ù÷Üƒ
+ipython:S116‹"LRename this field "t_WS" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŠÀÉÿûÿÿÿÿ
+mpython:S116ø"PRename this field "t_STRING" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ÿ»©ñøÿÿÿÿ
+ipython:S116ï"QRename this field "t_INTEGER" to match the regular expression ^[_a-z][_a-z0-9]*$.(÷¾å
+dpython:S116ç"LRename this field "t_ID" to match the regular expression ^[_a-z][_a-z0-9]*$.(º¶…É
+gpython:S116ş"ORename this field "t_SPACE" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÍĞ‰­
+npython:S116ğ"VRename this field "t_INTEGER_TYPE" to match the regular expression ^[_a-z][_a-z0-9]*$.(±Õ
+mpython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(·
+Cpython:S5806±"+Rename this variable; it shadows a builtin.(ªŒÂ
+mpython:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(©–ô
+rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ü¿Âşüÿÿÿÿ
+rpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(êâ“èøÿÿÿÿ
+mpython:S3776º"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(õÉôŒ
+npython:S3776õ"URefactor this function to reduce its Cognitive Complexity from 146 to the 15 allowed.(£˜‹
+Kpython:S1940²"-Use the opposite operator ("not in") instead.(â­“Ùüÿÿÿÿ
+mpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Œë¹È
+Qpython:S1481½"3Replace unused local variable "positions" with "_".(ı®¿ºıÿÿÿÿ
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÉÉ¶òùÿÿÿÿ
+-python:S6659Ë"Use `endswith` here.(í°ÉØ
+2python:S6659Ğ"Use `endswith` here.(€İÚ°şÿÿÿÿ
+Dpython:S5806ğ"+Rename this variable; it shadows a builtin.(‡¤‰Ò
+{python:S5717û"]Change this default value to "None" and initialize this parameter inside the function/method.(ÅŞôúÿÿÿÿ

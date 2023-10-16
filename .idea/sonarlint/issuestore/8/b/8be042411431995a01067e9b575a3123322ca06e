@@ -1,0 +1,23 @@
+
+epython:S1192Ô"GDefine a constant instead of duplicating this literal "ok ::1" 4 times.(¿¨Ëøÿÿÿÿ
+dpython:S1192Ó"KDefine a constant instead of duplicating this literal "ok faÃŸ.de" 4 times.(ìŸ›
+@python:S108=")Either remove or fill this block of code.(ã‘Û¾
+lpython:S1542G"TRename function "_is_ValueError" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÍÌòÇ
+Gpython:S1481m"/Replace unused local variable "proto" with "_".(ñ¶Ğ¨
+Kpython:S1481m"3Replace unused local variable "canonname" with "_".(ñ¶Ğ¨
+Cpython:S5806m"+Rename this variable; it shadows a builtin.(ñ¶Ğ¨
+Bpython:S1940™")Use the opposite operator ("!=") instead.(Äà‹
+zpython:S1542¹"\Rename function "test_SocketType_basics" to match the regular expression ^[a-z_][a-z0-9_]*$.(àƒêŞøÿÿÿÿ
+Apython:S2201Ê"(The return value of "repr" must be used.(³ùûà
+wpython:S1542ì"YRename function "test_SocketType_dup" to match the regular expression ^[a-z_][a-z0-9_]*$.(îô­øÿÿÿÿ
+|python:S1542ø"^Rename function "test_SocketType_shutdown" to match the regular expression ^[a-z_][a-z0-9_]*$.(ì…ÇÅüÿÿÿÿ
+|python:S1542š"cRename function "test_SocketType_simple_server" to match the regular expression ^[a-z_][a-z0-9_]*$.(¤Œ­Û
+zpython:S1542«"aRename function "test_SocketType_is_readable" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÇÚ®À
+upython:S1542ã"]Rename function "test_SocketType_resolve" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğœ£[
+lpython:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ğœ£[
+python:S1542Â"fRename function "test_SocketType_unresolved_names" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥‰°Ü
+python:S1542Õ"hRename function "test_SocketType_non_blocking_paths" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÌéÈÏ
+Wpython:S905å":Remove or refactor this statement; it has no side effects.(¦µµƒúÿÿÿÿ
+{python:S1542¢"cRename function "test_SocketType_connect_paths" to match the regular expression ^[a-z_][a-z0-9_]*$.(ìËò#
+python:S1542°"aRename function "test_SocketType_is_abstract" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ş”áûÿÿÿÿ
+qpython:S1542º"SRename function "check_AF_UNIX" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷“Áûÿÿÿÿ

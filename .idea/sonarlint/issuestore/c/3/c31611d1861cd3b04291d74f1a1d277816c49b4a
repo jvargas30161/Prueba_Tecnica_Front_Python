@@ -1,0 +1,9 @@
+
+.python:S6659C"Use `startswith` here.(£›¥
+Mpython:S1481Z"0Replace unused local variable "ignore" with "_".(›Î¹úÿÿÿÿ
+Cpython:S1172q"+Remove the unused function parameter "ext".(¨ë
+Gpython:S1172q"/Remove the unused function parameter "pp_opts".(¨ë
+mpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Öä‰Ï
+/python:S6659í"Use `startswith` here.(£›¥
+4python:S6659ô"Use `startswith` here.(‡…ìÅşÿÿÿÿ
+/python:S6659ö"Use `startswith` here.(ù†Î—

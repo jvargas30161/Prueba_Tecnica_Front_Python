@@ -1,0 +1,15 @@
+
+rpython:S1192x"ZDefine a constant instead of duplicating this literal "client_max_window_bits=%d" 3 times.(ÂÿßÃ
+wpython:S1192y"ZDefine a constant instead of duplicating this literal "server_max_window_bits=%d" 3 times.(Óñ—ƒøÿÿÿÿ
+vpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¸ÊÃ‚ÿÿÿÿÿ
+ppython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(•ž«)
+vpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(èºüŠøÿÿÿÿ
+Fpython:S1172 ".Remove the unused function parameter "opcode".(þûëÿ
+Npython:S1172""6Remove the unused function parameter "payload_length".(™‹ó¹
+Jpython:S1172"-Remove the unused function parameter "proto".(±ÌéÏøÿÿÿÿ
+Cpython:S1172!"+Remove the unused function parameter "rsv".(ÜÙÞ‰
+Jpython:S1172'"-Remove the unused function parameter "proto".(òˆ™¬øÿÿÿÿ
+vpython:S1186+"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¼ ¯¤üÿÿÿÿ
+Jpython:S11722"-Remove the unused function parameter "proto".(±ÌéÏøÿÿÿÿ
+Cpython:S11726"+Remove the unused function parameter "fin".(ƒŠ»…
+Fpython:S11723".Remove the unused function parameter "opcode".(þûëÿ

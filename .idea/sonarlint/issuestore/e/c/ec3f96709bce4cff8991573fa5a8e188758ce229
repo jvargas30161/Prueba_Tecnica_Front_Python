@@ -1,0 +1,13 @@
+
+Kpython:S1481¼"2Replace unused local variable "scenario" with "_".(¨¥ÑĞ
+Xpython:S1244¾":Do not perform equality checks with floating point values.(üœÀÕüÿÿÿÿ
+Kpython:S1481Â"2Replace unused local variable "scenario" with "_".(·ÜôŸ
+Kpython:S1481È"2Replace unused local variable "scenario" with "_".(Ï´»
+Xpython:S1244Ì":Do not perform equality checks with floating point values.(üœÀÕüÿÿÿÿ
+Kpython:S1481Ğ"2Replace unused local variable "scenario" with "_".(Ï´»
+Kpython:S1481Ø"2Replace unused local variable "scenario" with "_".(Ï´»
+Spython:S1244ï":Do not perform equality checks with floating point values.(…âÉ
+Spython:S1244…":Do not perform equality checks with floating point values.(Ç™èù
+Spython:S1244›":Do not perform equality checks with floating point values.(Ç™èù
+Ppython:S1481£"2Replace unused local variable "scenario" with "_".(µÖûùûÿÿÿÿ
+[python:S3827½"Bscenario is used before it is defined. Move the definition before.(°»‚Ó

@@ -1,0 +1,3 @@
+
+Npython:S1172K"1Remove the unused function parameter "Extension".(ß“µ«úÿÿÿÿ
+qpython:S117K"URename this parameter "Extension" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß“µ«úÿÿÿÿ

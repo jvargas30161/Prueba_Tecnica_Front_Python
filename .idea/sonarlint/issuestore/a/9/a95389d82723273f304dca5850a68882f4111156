@@ -1,0 +1,9 @@
+
+_python:S1192#"GDefine a constant instead of duplicating this literal "wake 0" 3 times.(Œ½‘Ö
+_python:S1192#"GDefine a constant instead of duplicating this literal "wake 1" 8 times.(Œ½‘Ö
+_python:S1192#"GDefine a constant instead of duplicating this literal "wake 2" 3 times.(Œ½‘Ö
+`python:S1192n"HDefine a constant instead of duplicating this literal "sleep 3" 5 times.(´æìË
+`python:S1192#"HDefine a constant instead of duplicating this literal "sleep 2" 8 times.(Œ½‘Ö
+`python:S1192#"HDefine a constant instead of duplicating this literal "sleep 1" 8 times.(Œ½‘Ö
+`python:S1192#"HDefine a constant instead of duplicating this literal "sleep 0" 3 times.(Œ½‘Ö
+dpython:S1192n"LDefine a constant instead of duplicating this literal "cancelled 2" 3 times.(´æìË

@@ -1,0 +1,12 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(…»²Ê
+Zpython:S6353"BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(°÷ÍÍ
+Zpython:S6353"BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(°÷ÍÍ
+lpython:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(Â¬Ó
+/python:S6659Û"Use `startswith` here.(¦—ÔÃ
+mpython:S3776”"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯Œåò
+mpython:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¹ž¶Æ
+ppython:S5713Þ"WRemove this redundant Exception class; it derives from another which is already caught.(³Òš†
+Spython:S2836õ"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+mpython:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¿½³í
+|python:S1871ì"cEither merge this branch with the identical one on line "746" or change one of the implementations.(º‚Ìõ

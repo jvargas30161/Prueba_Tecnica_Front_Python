@@ -1,0 +1,78 @@
+
+dpython:S116†"LRename this field "t_LE" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ê‘“á
+upython:S116Ã"XRename this field "t_STRING_LITERAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(÷øè…úÿÿÿÿ
+opython:S116"RRename this field "t_MODEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(†û¼Şşÿÿÿÿ
+epython:S116ö"NRename this field "t_PLUS" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ü¤•
+qpython:S116‘"TRename this field "t_MINUSEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(Š›çıÿÿÿÿ
+fpython:S116ƒ"NRename this field "t_LNOT" to match the regular expression ^[_a-z][_a-z0-9]*$.(óïæ€
+ppython:S116"SRename this field "t_PLUSEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ´¬³şÿÿÿÿ
+ipython:S116ˆ"LRename this field "t_EQ" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú„•Îúÿÿÿÿ
+hpython:S116¨"PRename this field "t_PERIOD" to match the regular expression ^[_a-z][_a-z0-9]*$.(“ØÆØ
+jpython:S116ş"MRename this field "t_XOR" to match the regular expression ^[_a-z][_a-z0-9]*$.(ËÒ÷úÿÿÿÿ
+opython:S116–"RRename this field "t_XOREQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÙÃíØûÿÿÿÿ
+qpython:S116š"TRename this field "t_MINUSMINUS" to match the regular expression ^[_a-z][_a-z0-9]*$.(éÁùĞúÿÿÿÿ
+ipython:S116„"LRename this field "t_LT" to match the regular expression ^[_a-z][_a-z0-9]*$.(ı÷ŠŒşÿÿÿÿ
+hpython:S116¤"PRename this field "t_RPAREN" to match the regular expression ^[_a-z][_a-z0-9]*$.(Û˜×Ë
+hpython:S116ÿ"PRename this field "t_LSHIFT" to match the regular expression ^[_a-z][_a-z0-9]*$.(È“½ã
+hpython:S116ù"PRename this field "t_DIVIDE" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÎŞŞ•
+kpython:S116©"NRename this field "t_SEMI" to match the regular expression ^[_a-z][_a-z0-9]*$.(êÌÆ°úÿÿÿÿ
+lpython:S116§"ORename this field "t_COMMA" to match the regular expression ^[_a-z][_a-z0-9]*$.(¹Ò¨ıÿÿÿÿ
+epython:S116ú"MRename this field "t_MOD" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ó•í
+gpython:S116"ORename this field "t_ARROW" to match the regular expression ^[_a-z][_a-z0-9]*$.( šÛŞ
+dpython:S116‰"LRename this field "t_NE" to match the regular expression ^[_a-z][_a-z0-9]*$.(ãœí¸
+opython:S116"RRename this field "t_DIVEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(µœ ëøÿÿÿÿ
+rpython:S116’"URename this field "t_LSHIFTEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(Úø™çıÿÿÿÿ
+ipython:S116‡"LRename this field "t_GE" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŞœŞ”ùÿÿÿÿ
+mpython:S116Œ"PRename this field "t_EQUALS" to match the regular expression ^[_a-z][_a-z0-9]*$.(Úô¦»ûÿÿÿÿ
+jpython:S116”"RRename this field "t_ANDEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(ä˜õ³
+opython:S116™"RRename this field "t_PLUSPLUS" to match the regular expression ^[_a-z][_a-z0-9]*$.(İË»¨üÿÿÿÿ
+lpython:S116ª"ORename this field "t_COLON" to match the regular expression ^[_a-z][_a-z0-9]*$.(‘—ÄØûÿÿÿÿ
+opython:S116¥"RRename this field "t_LBRACKET" to match the regular expression ^[_a-z][_a-z0-9]*$.(®Ü«œıÿÿÿÿ
+jpython:S116ı"MRename this field "t_NOT" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰…óşÿÿÿÿ
+mpython:S116£"PRename this field "t_LPAREN" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÂŠ·­ùÿÿÿÿ
+qpython:S116"TRename this field "t_TIMESEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬œ¹éúÿÿÿÿ
+epython:S116"MRename this field "t_LOR" to match the regular expression ^[_a-z][_a-z0-9]*$.(¡åğ‰
+hpython:S116€"PRename this field "t_RSHIFT" to match the regular expression ^[_a-z][_a-z0-9]*$.(ä÷ˆÃ
+opython:S116¦"RRename this field "t_RBRACKET" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ù©•Éûÿÿÿÿ
+kpython:S116‚"NRename this field "t_LAND" to match the regular expression ^[_a-z][_a-z0-9]*$.(½©›Ïúÿÿÿÿ
+rpython:S116“"URename this field "t_RSHIFTEQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(á†ºŒşÿÿÿÿ
+fpython:S116÷"ORename this field "t_MINUS" to match the regular expression ^[_a-z][_a-z0-9]*$.(êüîa
+hpython:S116•"QRename this field "t_OREQUAL" to match the regular expression ^[_a-z][_a-z0-9]*$.(ğ‹ûN
+ipython:S116…"LRename this field "t_GT" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶ğ ùÿÿÿÿ
+gpython:S116ø"ORename this field "t_TIMES" to match the regular expression ^[_a-z][_a-z0-9]*$.(·è¼Å
+mpython:S116 "PRename this field "t_CONDOP" to match the regular expression ^[_a-z][_a-z0-9]*$.(‹¢ß™ùÿÿÿÿ
+ipython:S116û"LRename this field "t_OR" to match the regular expression ^[_a-z][_a-z0-9]*$.(ç¥…Üùÿÿÿÿ
+opython:S116«"RRename this field "t_ELLIPSIS" to match the regular expression ^[_a-z][_a-z0-9]*$.(±º»äùÿÿÿÿ
+jpython:S116ü"MRename this field "t_AND" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿’ÛÈşÿÿÿÿ
+dpython:S100¢"LRename method "t_PPHASH" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒ¾‡ö
+mpython:S100±"URename method "t_ppline_FILENAME" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒÖ„ç
+ppython:S100¸"XRename method "t_ppline_LINE_NUMBER" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢´„¸
+qpython:S100À"TRename method "t_ppline_NEWLINE" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚¯¼©ûÿÿÿÿ
+ppython:S100Ì"SRename method "t_ppline_PPLINE" to match the regular expression ^[a-z_][a-z0-9_]*$.(Òêş™øÿÿÿÿ
+npython:S100Ø"VRename method "t_pppragma_NEWLINE" to match the regular expression ^[a-z_][a-z0-9_]*$.(…¤´¯
+tpython:S100İ"WRename method "t_pppragma_PPPRAGMA" to match the regular expression ^[a-z_][a-z0-9_]*$.(šÈ Áşÿÿÿÿ
+jpython:S100ã"RRename method "t_pppragma_STR" to match the regular expression ^[a-z_][a-z0-9_]*$.(’Üª¥
+epython:S100ñ"MRename method "t_NEWLINE" to match the regular expression ^[a-z_][a-z0-9_]*$.(Í–±Ç
+ipython:S100º"LRename method "t_LBRACE" to match the regular expression ^[a-z_][a-z0-9_]*$.(Û—¿æüÿÿÿÿ
+dpython:S100¿"LRename method "t_RBRACE" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆç·ã
+ipython:S100Ë"QRename method "t_FLOAT_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(õé¢ï
+rpython:S100Ï"URename method "t_HEX_FLOAT_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(ñ¯‚—şÿÿÿÿ
+kpython:S100Ó"SRename method "t_INT_CONST_HEX" to match the regular expression ^[a-z_][a-z0-9_]*$.(®İª¿
+ppython:S100×"SRename method "t_INT_CONST_BIN" to match the regular expression ^[a-z_][a-z0-9_]*$.(”ª…¸ûÿÿÿÿ
+ppython:S100Û"SRename method "t_BAD_CONST_OCT" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş ‡Ûúÿÿÿÿ
+kpython:S100à"SRename method "t_INT_CONST_OCT" to match the regular expression ^[a-z_][a-z0-9_]*$.(¸„Äå
+kpython:S100ä"SRename method "t_INT_CONST_DEC" to match the regular expression ^[a-z_][a-z0-9_]*$.(·´¿”
+kpython:S100ë"TRename method "t_INT_CONST_CHAR" to match the regular expression ^[a-z_][a-z0-9_]*$.(–¡¦X
+mpython:S100ï"PRename method "t_CHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕèÌ¡ùÿÿÿÿ
+ipython:S100ó"QRename method "t_WCHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(ç”ÛÀ
+opython:S100÷"RRename method "t_U8CHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Öøÿÿÿÿ
+kpython:S100û"SRename method "t_U16CHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ãò«ß
+ppython:S100ÿ"SRename method "t_U32CHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(ç•î¿ÿÿÿÿÿ
+mpython:S100ƒ"URename method "t_UNMATCHED_QUOTE" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù»Ô®
+qpython:S100ˆ"TRename method "t_BAD_CHAR_CONST" to match the regular expression ^[a-z_][a-z0-9_]*$.(øÕµ•ùÿÿÿÿ
+rpython:S100"URename method "t_WSTRING_LITERAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì˜Öşÿÿÿÿ
+npython:S100‘"VRename method "t_U8STRING_LITERAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ÏæÖ
+opython:S100•"WRename method "t_U16STRING_LITERAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(…Úú”
+opython:S100™"WRename method "t_U32STRING_LITERAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÜÍ£Ü
+upython:S100Ÿ"XRename method "t_BAD_STRING_LITERAL" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ì¸ƒ‹ıÿÿÿÿ
+`python:S100¤"HRename method "t_ID" to match the regular expression ^[a-z_][a-z0-9_]*$.(™‘Ï¯

@@ -1,0 +1,6 @@
+
+rpython:S117ê"ZRename this local variable "BaseClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃÑşÖ
+wpython:S117ı"ZRename this local variable "BaseClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(•²›öÿÿÿÿÿ
+mpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÈŞ›
+8python:S3626İ"Remove this redundant continue.(À–¬ˆ
+rpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ƒÑ¨Üøÿÿÿÿ

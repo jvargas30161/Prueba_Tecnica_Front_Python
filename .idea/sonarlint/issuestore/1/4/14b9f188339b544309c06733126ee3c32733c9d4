@@ -1,0 +1,10 @@
+
+epython:S1192Ğ"GDefine a constant instead of duplicating this literal '*final' 3 times.(Ÿ¿‡ùÿÿÿÿ
+6python:S125o"Remove this commented out code.(àØ£©
+mpython:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¬æĞ–
+Fpython:S1172å".Remove the unused function parameter "prefix".(ÒñØ}
+rpython:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(…ßöÈúÿÿÿÿ
+Rpython:S1135ı"4Complete the task associated to this "TODO" comment.(œãşÿÿÿÿ
+Ipython:S6035Š"0Replace this alternation with a character class.(´´õà
+rpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(°‚µòıÿÿÿÿ
+Gpython:S1172ö".Remove the unused function parameter "prefix".(‰„®

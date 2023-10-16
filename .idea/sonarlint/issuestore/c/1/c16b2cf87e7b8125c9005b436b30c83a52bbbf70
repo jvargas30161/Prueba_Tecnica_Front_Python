@@ -1,0 +1,7 @@
+
+Fpython:S1481L".Replace unused local variable "size" with "_".(›Ä·
+qpython:S37762"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(š»œ‚üÿÿÿÿ
+špython:S2638^"Change this method signature to accept the same arguments as the method it overrides. This method overrides zipfile.ZipFile.open.(âå‰
+Apython:S108…")Either remove or fill this block of code.(ã‘Û¾
+ppython:S2638"RAdd missing parameters compresslevel. This method overrides zipfile.ZipFile.write.(àÿ¡áúÿÿÿÿ
+npython:S2638™"UAdd missing parameters compresslevel. This method overrides zipfile.ZipFile.writestr.(ÃÄ‚

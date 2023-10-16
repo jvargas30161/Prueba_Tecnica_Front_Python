@@ -1,0 +1,11 @@
+
+qpython:S11927"YDefine a constant instead of duplicating this literal "trio-test-1.example.org" 13 times.(Ì¹Ñ¨
+kpython:S1192Û"MDefine a constant instead of duplicating this literal "another task" 4 times.(²‰ïäÿÿÿÿÿ
+qpython:S3776]"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(’Ì¾ûÿÿÿÿ
+Jpython:S4423½",Change this code to use a stronger protocol.(È Ğİúÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(³è»‡ûÿÿÿÿ
+—python:S1542Õ"yRename function "test_PyOpenSSLEchoStream_gives_resource_busy_errors" to match the regular expression ^[a-z_][a-z0-9_]*$.(“‡÷›ıÿÿÿÿ
+zpython:S1542³"\Rename function "test_SSLStream_generic" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦Ğ’®ûÿÿÿÿ
+Wpython:S905¨":Remove or refactor this statement; it has no side effects.(•âÒôıÿÿÿÿ
+Ipython:S1481ô"0Replace unused local variable "server" with "_".(±Æ±ÿ
+opython:S1542õ	"VRename function "test_SSLListener" to match the regular expression ^[a-z_][a-z0-9_]*$.(­˜Ñ‘

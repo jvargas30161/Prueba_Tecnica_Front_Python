@@ -1,0 +1,17 @@
+
+tpython:S1192Q"WDefine a constant instead of duplicating this literal "wait_small_cushion end" 3 times.(â ÚÜşÿÿÿÿ
+fpython:S11924"IDefine a constant instead of duplicating this literal "tt start" 3 times.(á…ÃÕúÿÿÿÿ
+apython:S5607ğ"HFix this invalid "+" operation between incompatible types (str and int).(Ğ†ÇÚ
+dpython:S2208"GImport only needed names or import the module and then use its members.(‘Ï¹§şÿÿÿÿ
+Ppython:S905q":Remove or refactor this statement; it has no side effects.(Ğ±†p
+Qpython:S905‡":Remove or refactor this statement; it has no side effects.(Ğ±†p
+mpython:S1542£"TRename function "test_Sequencer" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßÿşÎ
+Apython:S108Ã")Either remove or fill this block of code.(ã‘Û¾
+tpython:S1542É"[Rename function "test_Sequencer_cancel" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹¿ 
+Qpython:S905ì":Remove or refactor this statement; it has no side effects.(Ğ±†p
+Rpython:S905ğ":Remove or refactor this statement; it has no side effects.(Ğ†ÇÚ
+{python:S1542ø"]Rename function "test__UnboundeByteQueue" to match the regular expression ^[a-z_][a-z0-9_]*$.(ıÿ‡çùÿÿÿÿ
+tpython:S1542À"[Rename function "test_MemorySendStream" to match the regular expression ^[a-z_][a-z0-9_]*$.(¡‚İè
+|python:S1542š"^Rename function "test_MemoryReceiveStream" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾ Öÿùÿÿÿÿ
+|python:S1542×"cRename function "test_MemoryRecvStream_closing" to match the regular expression ^[a-z_][a-z0-9_]*$.(—ÛÈ
+Wpython:S905ñ":Remove or refactor this statement; it has no side effects.(Ùé‹ëûÿÿÿÿ

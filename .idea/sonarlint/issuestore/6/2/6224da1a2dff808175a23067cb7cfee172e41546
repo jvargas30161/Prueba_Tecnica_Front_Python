@@ -1,0 +1,19 @@
+
+jpython:S116]"NRename this field "BCharA" to match the regular expression ^[_a-z][_a-z0-9]*$.(Î¹­ôùÿÿÿÿ
+ipython:S116f"MRename this field "CData" to match the regular expression ^[_a-z][_a-z0-9]*$.(²ãøúÿÿÿÿ
+jpython:S116\"NRename this field "BVoidP" to match the regular expression ^[_a-z][_a-z0-9]*$.(çä‡àúÿÿÿÿ
+ipython:S116f"MRename this field "CType" to match the regular expression ^[_a-z][_a-z0-9]*$.(²ãøúÿÿÿÿ
+Upython:S1128">Replace this generic exception class with a more specific one.(’‹â±
+Upython:S112>">Replace this generic exception class with a more specific one.(’‹â±
+Ipython:S5806¯"+Rename this variable; it shadows a builtin.(Ô‹›òùÿÿÿÿ
+spython:S117Ş"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æ×¾Æùÿÿÿÿ
+Kpython:S1940©"-Use the opposite operator ("not in") instead.(Ì ¼îşÿÿÿÿ
+spython:S117½"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(İì òûÿÿÿÿ
+mpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ß•êÃ
+Spython:S1481¾":Replace unused local variable "source_extension" with "_".(ºÈíõ
+Spython:S1481Ê":Replace unused local variable "source_extension" with "_".(ºÈíõ
+rpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(¨ñ‰¹üÿÿÿÿ
+npython:S117Ò"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(²úæ
+npython:S117Ú"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(²úæ
+npython:S117ê"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(²úæ
+Ipython:S5806«"+Rename this variable; it shadows a builtin.(®ìÆÿÿÿÿÿ

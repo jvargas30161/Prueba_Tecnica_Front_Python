@@ -1,0 +1,8 @@
+
+|python:S1542"_Rename function "test_UnboundedQueue_basic" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾ÛÌÑûÿÿÿÿ
+Epython:S2201#"(The return value of "repr" must be used.(ú¿æÏúÿÿÿÿ
+zpython:S1542&"bRename function "test_UnboundedQueue_blocking" to match the regular expression ^[a-z_][a-z0-9_]*$.(àòÚ
+zpython:S1542F"bRename function "test_UnboundedQueue_fairness" to match the regular expression ^[a-z_][a-z0-9_]*$.(œ§é¸
+Kpython:S5727]"3Remove this == comparison; it will always be False.(´¡İ‘
+…python:S1542u"hRename function "test_UnboundedQueue_trivial_yields" to match the regular expression ^[a-z_][a-z0-9_]*$.(çĞÛ›ıÿÿÿÿ
+‹python:S1542‚"mRename function "test_UnboundedQueue_no_spurious_wakeups" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ğ¥½ıÿÿÿÿ

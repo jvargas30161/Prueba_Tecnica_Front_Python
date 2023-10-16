@@ -1,0 +1,7 @@
+
+Upython:S5754&"8Catch a more specific exception or reraise the exception(ÛşƒÙşÿÿÿÿ
+Ypython:S6353½";Use concise character class syntax '\d' instead of '[0-9]'.(ÇòûÅøÿÿÿÿ
+Ypython:S6353…";Use concise character class syntax '\d' instead of '[0-9]'.(Ñİüüÿÿÿÿ
+lpython:S117Œ"ORename this parameter "MAX" to match the regular expression ^[_a-z][a-z0-9_]*$.(è¢ºŸùÿÿÿÿ
+Cpython:S1481Î"%Remove the unused local variable "i".(Ø·Ş¼ÿÿÿÿÿ
+jpython:S1854æ"QRemove this assignment to local variable 'child_thread'; the value is never used.(ö³

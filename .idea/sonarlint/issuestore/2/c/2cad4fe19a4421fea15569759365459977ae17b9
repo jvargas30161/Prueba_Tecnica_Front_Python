@@ -1,0 +1,4 @@
+
+@python:S108")Either remove or fill this block of code.(ã‘Û¾
+[python:S5445'"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(Å¿ö¥
+[python:S5445."C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(Å¿ö¥

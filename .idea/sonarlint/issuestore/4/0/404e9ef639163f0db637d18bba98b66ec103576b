@@ -1,0 +1,17 @@
+
+lpython:S116Ø"TRename this field "lpOverlapped" to match the regular expression ^[_a-z][_a-z0-9]*$.(Óö„°
+lpython:S116"TRename this field "lpOverlapped" to match the regular expression ^[_a-z][_a-z0-9]*$.(Óö„°
+zpython:S116‚"bRename this field "dwNumberOfBytesTransferred" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÎšÜ”
+mpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ö›¸—
+Apython:S108¿")Either remove or fill this block of code.(ã‘Û¾
+zpython:S117ÿ"]Rename this local variable "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘µõ×ÿÿÿÿÿ
+mpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(†“ÿª
+ppython:S117Ô"XRename this parameter "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(âœ—ÿ
+mpython:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(âœ—ÿ
+Mpython:S5727Š"4Remove this identity check; it will always be False.(‚âÓ‚
+epython:S5756‹"GFix this call; "raise_cancel" has type NoneType and it is not callable.(š­å¡şÿÿÿÿ
+zpython:S117"]Rename this local variable "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘µõ×ÿÿÿÿÿ
+zpython:S117¹"]Rename this local variable "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(†§ç³øÿÿÿÿ
+ppython:S117ª"XRename this parameter "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôšª
+upython:S117Î"]Rename this local variable "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô›Ü€
+ppython:S117À"XRename this parameter "lpOverlapped" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÎ¢”

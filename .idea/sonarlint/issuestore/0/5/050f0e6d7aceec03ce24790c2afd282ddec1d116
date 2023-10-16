@@ -1,0 +1,9 @@
+
+qpython:S1192"SDefine a constant instead of duplicating this literal "__init__.data.json" 3 times.(ÑÌõÕøÿÿÿÿ
+dpython:S1192’"KDefine a constant instead of duplicating this literal ".data.json" 4 times.(ÍÉÿú
+lpython:S3776a"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(¾ŠÂƒ
+mpython:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 84 to the 15 allowed.(É¶±Ü
+Mpython:S1135…"4Complete the task associated to this "TODO" comment.(™à‹À
+Mpython:S1135‰"4Complete the task associated to this "TODO" comment.(¹Èˆ
+Mpython:S1135¤"4Complete the task associated to this "TODO" comment.(ÍÉÙ
+lpython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ôë¶)

@@ -1,0 +1,7 @@
+
+upython:S1542"XRename function "test_ProtocolError" to match the regular expression ^[a-z_][a-z0-9_]*$.(®‹çÁøÿÿÿÿ
+Npython:S3984"6Raise this exception or remove this useless statement.(Ñ¾Õ
+zpython:S1542"]Rename function "test_LocalProtocolError" to match the regular expression ^[a-z_][a-z0-9_]*$.(™ìõîşÿÿÿÿ
+Xpython:S63536";Use concise character class syntax '\d' instead of '[0-9]'.(„­Í½ûÿÿÿÿ
+Xpython:S63536";Use concise character class syntax '\d' instead of '[0-9]'.(„­Í½ûÿÿÿÿ
+dpython:S1764Y"LCorrect one of the identical sub-expressions on both sides of operator "==".(åö·…

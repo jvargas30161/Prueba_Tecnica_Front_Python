@@ -1,0 +1,7 @@
+
+fpython:S1192"MDefine a constant instead of duplicating this literal b"example.org" 3 times.(©μμ
+apython:S1854l"IRemove this assignment to local variable 'resp'; the value is never used.(ό™η²
+epython:S1854<"HRemove this assignment to local variable 'req'; the value is never used.(§¬ωÒόÿÿÿÿ
+epython:S18542"HRemove this assignment to local variable 'req'; the value is never used.(§¬ωÒόÿÿÿÿ
+epython:S1854*"HRemove this assignment to local variable 'req'; the value is never used.(§¬ωÒόÿÿÿÿ
+epython:S1854"HRemove this assignment to local variable 'req'; the value is never used.(§¬ωÒόÿÿÿÿ

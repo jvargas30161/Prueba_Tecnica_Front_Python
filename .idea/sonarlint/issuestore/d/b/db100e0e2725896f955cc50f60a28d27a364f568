@@ -1,0 +1,11 @@
+
+qpython:S3776_"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(€ €ƒøÿÿÿÿ
+Lpython:S1172‹".Remove the unused function parameter "prefix".(¤‚À·ýÿÿÿÿ
+Rpython:S1172‹"4Remove the unused function parameter "early_prefix".(¤‚À·ýÿÿÿÿ
+mpython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÏÎë²
+mpython:S3776È"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(÷Ž¤”
+Zpython:S6353°"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(«—àE
+Ypython:S6353±"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(öÜ]
+[python:S6353²"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(ÞÅì…
+lpython:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(š­€d
+rpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(úèå‹úÿÿÿÿ

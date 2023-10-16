@@ -1,0 +1,8 @@
+
+Vpython:S5709%">Derive this class from "Exception" instead of "BaseException".(Ô…ƒ
+Rpython:S1135÷"4Complete the task associated to this "TODO" comment.(Ê˜Ë³şÿÿÿÿ
+©python:S2638¾"Change this method signature to accept the same arguments as the method it overrides. This method overrides http.client.HTTPConnection.request.(ìÙº
+mpython:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ìÙº
+jpython:S107ü"MMethod "__init__" has 22 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+‚python:S107Ä"jFunction "_ssl_wrap_socket_and_match_hostname" has 16 parameters, which is greater than the 13 authorized.(Ì’ŸÆ
+rpython:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(˜åµÈûÿÿÿÿ

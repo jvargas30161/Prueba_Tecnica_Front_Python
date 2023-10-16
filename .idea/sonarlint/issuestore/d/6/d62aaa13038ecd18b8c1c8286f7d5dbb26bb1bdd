@@ -1,0 +1,10 @@
+
+kpython:S1192“"RDefine a constant instead of duplicating this literal "bzip2'ed tar-file" 3 times.(ÂãÜ
+mpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¢Ç­
+ypython:S1186˜"[Add a nested comment explaining why this function is empty, or complete the implementation.(ÂùŠ™øÿÿÿÿ
+rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(§•Ñ­ùÿÿÿÿ
+Dpython:S5806‚"+Rename this variable; it shadows a builtin.(–§î¨
+Mpython:S1172Â"/Remove the unused function parameter "verbose".(¨Á«ııÿÿÿÿ
+Kpython:S1172…"2Remove the unused function parameter "extra_args".(‰Åüå
+Dpython:S5806Å"+Rename this variable; it shadows a builtin.(ıÚÜ
+Dpython:S5806"+Rename this variable; it shadows a builtin.(î‹…ì

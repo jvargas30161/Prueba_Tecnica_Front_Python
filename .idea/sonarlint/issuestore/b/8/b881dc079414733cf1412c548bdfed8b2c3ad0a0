@@ -1,0 +1,14 @@
+
+ppython:S1192¹"RDefine a constant instead of duplicating this literal '{0!r} not in list' 7 times.(·ùÛµúÿÿÿÿ
+qpython:S1192"XDefine a constant instead of duplicating this literal 'list index out of range' 3 times.(åÿÛ
+opython:S1192ã
+"VDefine a constant instead of duplicating this literal '{0!r} is not in list' 11 times.(ÙÂÒİ
+mpython:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(çàı
+lpython:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(¯¦C
+rpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(öÌÁÌûÿÿÿÿ
+mpython:S3776Ä
+"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Áú‹Ğ
+mpython:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(‰Æ×‹
+rpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(îä„ÿÿÿÿÿ
+mpython:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Áú‹Ğ
+mpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(‰Æ×‹

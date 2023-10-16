@@ -1,0 +1,10 @@
+
+„python:S1192¼"fDefine a constant instead of duplicating this literal "'output_dir' must be a string or None" 3 times.(³›„Ûýÿÿÿÿ
+_python:S2208"GImport only needed names or import the module and then use its members.(…»²Ê
+Hpython:S1172¶"/Remove the unused function parameter "depends".(ª ¯å
+Mpython:S1172Š"/Remove the unused function parameter "depends".(”×¦„ûÿÿÿÿ
+Gpython:S1481ã".Replace unused local variable "base" with "_".(ð¢•¹
+Dpython:S5806ö"+Rename this variable; it shadows a builtin.(‹§×Î
+Kpython:S1172ÿ"-Remove the unused function parameter "level".(¥–—Œøÿÿÿÿ
+Kpython:S1172Š"-Remove the unused function parameter "level".(¸Ûûýýÿÿÿÿ
+Hpython:S1172á"/Remove the unused function parameter "verbose".(…óí®

@@ -1,0 +1,55 @@
+
+^python:S1192m"FDefine a constant instead of duplicating this literal "uh oh" 3 times.(²êð­
+jpython:S1192õ"LDefine a constant instead of duplicating this literal "child2 wake" 3 times.(·óï‰ûÿÿÿÿ
+ppython:S1192í"RDefine a constant instead of duplicating this literal "the generator ran" 3 times.(¬—âñûÿÿÿÿ
+mpython:S1192°"TDefine a constant instead of duplicating this literal "single 'with' block" 3 times.(’ì®Ñ
+kpython:S1192ò"MDefine a constant instead of duplicating this literal "child1 sleep" 3 times.(±¶â–øÿÿÿÿ
+npython:S1192ö"PDefine a constant instead of duplicating this literal "child1 re-raise" 3 times.(Š¤Ô…þÿÿÿÿ
+@python:S108`")Either remove or fill this block of code.(ã‘Û¾
+Xpython:S1244":Do not perform equality checks with floating point values.(ÇûÓôùÿÿÿÿ
+Vpython:S5754¼"8Catch a more specific exception or reraise the exception(ÛþƒÙþÿÿÿÿ
+…python:S1542Ž"gRename function "test_system_task_crash_MultiError" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹ýûÖþÿÿÿÿ
+„python:S1542¨"kRename function "test_system_task_crash_plus_Cancelled" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚Õ—›
+Œpython:S1542Â"nRename function "test_system_task_crash_KeyboardInterrupt" to match the regular expression ^[a-z_][a-z0-9_]*$.(ë’ÕÍÿÿÿÿÿ
+Apython:S108ô")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108‡")Either remove or fill this block of code.(ã‘Û¾
+{python:S1542Ý"]Rename function "test_TrioToken_identity" to match the regular expression ^[a-z_][a-z0-9_]*$.(ú·žÓüÿÿÿÿ
+†python:S1542ë"hRename function "test_TrioToken_run_sync_soon_basic" to match the regular expression ^[a-z_][a-z0-9_]*$.(¯¶÷Ñüÿÿÿÿ
+„python:S1542ø"kRename function "test_TrioToken_run_sync_soon_too_late" to match the regular expression ^[a-z_][a-z0-9_]*$.(öáµ¤
+Rpython:S5727€	"4Remove this identity check; it will always be False.(¸Óº•üÿÿÿÿ
+‹python:S1542…	"mRename function "test_TrioToken_run_sync_soon_idempotent" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÞÙŒüÿÿÿÿ
+“python:S1542 	"uRename function "test_TrioToken_run_sync_soon_idempotent_requeue" to match the regular expression ^[a-z_][a-z0-9_]*$.(ðÒâ—ÿÿÿÿÿ
+‘python:S1542º	"sRename function "test_TrioToken_run_sync_soon_after_main_crash" to match the regular expression ^[a-z_][a-z0-9_]*$.(Úì©°ûÿÿÿÿ
+ˆpython:S1542Ê	"jRename function "test_TrioToken_run_sync_soon_crashes" to match the regular expression ^[a-z_][a-z0-9_]*$.( Äò­úÿÿÿÿ
+€python:S1542ß	"gRename function "test_TrioToken_run_sync_soon_FIFO" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö€ÁÄ
+–python:S1542é	"xRename function "test_TrioToken_run_sync_soon_starvation_resistance" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÎÜóèýÿÿÿÿ
+•python:S1542†
+"wRename function "test_TrioToken_run_sync_soon_threaded_stress_test" to match the regular expression ^[a-z_][a-z0-9_]*$.(œíè•ùÿÿÿÿ
+‰python:S1542¢
+"pRename function "test_TrioToken_run_sync_soon_massive_queue" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨÷´½
+‹python:S1542¹
+"mRename function "test_TrioToken_run_sync_soon_late_crash" to match the regular expression ^[a-z_][a-z0-9_]*$.(ì’ç—ùÿÿÿÿ
+tpython:S1186Õ"[Add a nested comment explaining why this function is empty, or complete the implementation.(—…Ñ
+Apython:S108Æ")Either remove or fill this block of code.(ã‘Û¾
+Apython:S2201Þ"(The return value of "repr" must be used.(ÓÔ·Ç
+Apython:S108­")Either remove or fill this block of code.(ã‘Û¾
+opython:S1542–"WRename function "test_Nursery_init" to match the regular expression ^[a-z_][a-z0-9_]*$.(§†¸
+xpython:S1542›"_Rename function "test_Nursery_private_init" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶°‚ô
+ypython:S1542¡"[Rename function "test_Nursery_subclass" to match the regular expression ^[a-z_][a-z0-9_]*$.(ô¨ÌŽùÿÿÿÿ
+>python:S5603£"%Remove this unused class declaration.(åï›È
+wpython:S1542§"YRename function "test_Cancelled_init" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÅøÉßýÿÿÿÿ
+qpython:S1542²"XRename function "test_Cancelled_str" to match the regular expression ^[a-z_][a-z0-9_]*$.(«¨
+{python:S1542·"]Rename function "test_Cancelled_subclass" to match the regular expression ^[a-z_][a-z0-9_]*$.(žæšÍýÿÿÿÿ
+Cpython:S5603¹"%Remove this unused class declaration.(ã¹Ãìûÿÿÿÿ
+xpython:S1542½"_Rename function "test_CancelScope_subclass" to match the regular expression ^[a-z_][a-z0-9_]*$.(ž›…Ü
+Cpython:S5603¿"%Remove this unused class declaration.(Ï½¤ñûÿÿÿÿ
+python:S1542Þ"aRename function "test_Task_custom_sleep_data" to match the regular expression ^[a-z_][a-z0-9_]*$.(ûÖÌøÿÿÿÿ
+Qpython:S5727þ"3Remove this identity check; it will always be True.(û‹ƒ²ûÿÿÿÿ
+Rpython:S5727½"4Remove this identity check; it will always be False.(Ëù¢•ùÿÿÿÿ
+Mpython:S5727¾"4Remove this identity check; it will always be False.(ÿëðÞ
+Mpython:S5727ß"4Remove this identity check; it will always be False.(ÿëðÞ
+ƒpython:S1542ç"jRename function "test_async_function_implemented_in_C" to match the regular expression ^[a-z_][a-z0-9_]*$.(µôÿË
+Rpython:S1135÷"4Complete the task associated to this "TODO" comment.(€àÛÑùÿÿÿÿ
+Upython:S112¡">Replace this generic exception class with a more specific one.(¸Ÿå
+Upython:S112³">Replace this generic exception class with a more specific one.(¸Ÿå
+Upython:S112½">Replace this generic exception class with a more specific one.(¸Ÿå

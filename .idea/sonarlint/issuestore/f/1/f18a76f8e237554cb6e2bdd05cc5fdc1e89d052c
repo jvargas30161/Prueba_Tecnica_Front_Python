@@ -1,0 +1,9 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(äªí
+{python:S1542"^Rename function "test_SocketStream_basics" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿÎÛéûÿÿÿÿ
+}python:S15425"`Rename function "test_SocketStream_send_all" to match the regular expression ^[a-z_][a-z0-9_]*$.(×ñøÿÿÿÿ
+wpython:S1542z"_Rename function "test_SocketStream_generic" to match the regular expression ^[a-z_][a-z0-9_]*$.(¯ÿ’È
+wpython:S1542ˆ"YRename function "test_SocketListener" to match the regular expression ^[a-z_][a-z0-9_]*$.(›¬Şãøÿÿÿÿ
+python:S1542½"qRename function "test_SocketListener_socket_closed_underfoot" to match the regular expression ^[a-z_][a-z0-9_]*$.(„Íì˜şÿÿÿÿ
+€python:S1542Ì"gRename function "test_SocketListener_accept_errors" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÊœùÆ
+wpython:S1186×"YAdd a nested comment explaining why this method is empty, or complete the implementation.(„ïØÿÿÿÿÿ

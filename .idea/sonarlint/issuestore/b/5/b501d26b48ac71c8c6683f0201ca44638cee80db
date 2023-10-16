@@ -1,0 +1,57 @@
+
+lpython:S1192¢"NDefine a constant instead of duplicating this literal 'unsigned char' 5 times.(Œ’Ö‰úÿÿÿÿ
+jpython:S1192¡"LDefine a constant instead of duplicating this literal 'signed char' 5 times.(ôŸ¿îûÿÿÿÿ
+dpython:S1192"FDefine a constant instead of duplicating this literal '(* &)' 3 times.(ê«ùûÿÿÿÿ
+Hpython:S1066¤"/Merge this if statement with the enclosing one.(à¦²
+npython:S117X"RRename this parameter "BClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(„–¢ûüÿÿÿÿ
+opython:S117ï"RRename this parameter "BClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(„–¢ûüÿÿÿÿ
+opython:S117†"RRename this parameter "BClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(„–¢ûüÿÿÿÿ
+rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(º¡í¦úÿÿÿÿ
+Apython:S108µ")Either remove or fill this block of code.(ã‘Û¾
+Lpython:S1172û".Remove the unused function parameter "maxlen".(„õ§†øÿÿÿÿ
+Lpython:S1172ş".Remove the unused function parameter "maxlen".(„õ§†øÿÿÿÿ
+npython:S117…"QRename this parameter "BItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(·›æƒÿÿÿÿÿ
+rpython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(·›æƒÿÿÿÿÿ
+spython:S117ì"VRename this local variable "BItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿•˜Òüÿÿÿÿ
+mpython:S117ç"URename this parameter "CTypesPtr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ¯
+mpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ˆ¯
+opython:S117Á"RRename this parameter "BClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(„–¢ûüÿÿÿÿ
+tpython:S117‰"WRename this local variable "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÜ¯´ıÿÿÿÿ
+qpython:S117ç"ZRename this local variable "CTypesPtr" to match the regular expression ^[_a-z][a-z0-9_]*$.(í´ìI
+|python:S117û"_Rename this parameter "CTypesStructOrUnion" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì›‘îşÿÿÿÿ
+rpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(Ì›‘îşÿÿÿÿ
+tpython:S117²"WRename this local variable "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹Ùèıÿÿÿÿ
+Fpython:S1172Ä"-Remove the unused function parameter "fname".(‡Ö¤î
+jpython:S117Ä"RRename this parameter "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Ö¤î
+lpython:S117Æ"ORename this parameter "PTR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ®¬˜ÿÿÿÿÿ
+opython:S117Ë"RRename this parameter "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(—²«×ÿÿÿÿÿ
+Kpython:S1172Ò"-Remove the unused function parameter "fname".(±ËÉüÿÿÿÿ
+rpython:S117Ò"URename this parameter "BFieldPtr" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ËÉüÿÿÿÿ
+lpython:S117Ô"ORename this parameter "PTR" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿ®¬˜ÿÿÿÿÿ
+opython:S117Ú"RRename this parameter "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÇ”¸ûÿÿÿÿ
+opython:S117İ"RRename this parameter "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(—²«×ÿÿÿÿÿ
+hpython:S117õ"QRename this parameter "BArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÚú3
+jpython:S117õ"SRename this parameter "BResult" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÚú3
+lpython:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ƒÚú3
+rpython:S117"URename this local variable "BArg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸éÏæûÿÿÿÿ
+Upython:S5754”"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+<python:S125"Remove this commented out code.(ªóºÜùÿÿÿÿ
+rpython:S117Ê"URename this local variable "BArg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸éÏæûÿÿÿÿ
+mpython:S117Ş"URename this parameter "CTypesInt" to match the regular expression ^[_a-z][a-z0-9_]*$.(½óÕğ
+wpython:S117†"ZRename this parameter "cdata_or_BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(•¶´™ûÿÿÿÿ
+ipython:S117"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(óãŒ¨
+npython:S117‘"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(–¹ïúÿÿÿÿ
+npython:S117–"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÍÁ¹ÿÿÿÿÿ
+npython:S117™"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏÙƒÂøÿÿÿÿ
+Jpython:S1172Ÿ",Remove the unused function parameter "size".(¶‚Û©øÿÿÿÿ
+spython:S117³"VRename this local variable "MyRef" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç‘Âôúÿÿÿÿ
+Gpython:S1940©")Use the opposite operator ("!=") instead.(Íûâúÿÿÿÿ
+ipython:S117É"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚²…÷
+tpython:S117Ò"WRename this local variable "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(éûĞøÿÿÿÿ
+npython:S117Û"VRename this local variable "BItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠêÏ
+npython:S117Ì"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Öˆãïüÿÿÿÿ
+rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Öˆãïüÿÿÿÿ
+lpython:S117ã"TRename this parameter "BTypePtr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŞÜµ¹
+hpython:S117ı"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(àê­b
+hpython:S117ƒ	"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÒ'
+ipython:S117Š	"QRename this parameter "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä¿­ù

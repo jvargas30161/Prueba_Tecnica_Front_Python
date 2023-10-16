@@ -1,0 +1,32 @@
+
+qpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¹œåº
+Ipython:S1481˜"+Remove the unused local variable "numargs".(Ë¿Ğ‚ÿÿÿÿÿ
+spython:S117Ù"VRename this local variable "BFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼‹ÅÆûÿÿÿÿ
+mpython:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÓÃòö
+npython:S117ä"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø¶®Û
+Dpython:S1172ı",Remove the unused function parameter "name".(¤¡/
+Dpython:S1172ı",Remove the unused function parameter "kwds".(¤¡/
+Fpython:S1172ı".Remove the unused function parameter "module".(¤¡/
+Lpython:S1172‡".Remove the unused function parameter "module".(ã«¿‡ùÿÿÿÿ
+Jpython:S1172‡",Remove the unused function parameter "name".(ã«¿‡ùÿÿÿÿ
+Jpython:S1172‡",Remove the unused function parameter "kwds".(ã«¿‡ùÿÿÿÿ
+rpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ûè°´ûÿÿÿÿ
+npython:S117À"VRename this local variable "BFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÇ«ò
+Dpython:S5806Á"+Rename this variable; it shadows a builtin.(ö«³
+tpython:S117ğ"WRename this local variable "BField" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ú¦Üªúÿÿÿÿ
+ppython:S117å"XRename this local variable "BStruct" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿæ£€
+Gpython:S1481æ"/Replace unused local variable "cname" with "_".(ğÔ¶$
+npython:S117Â"VRename this local variable "BFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(·áòë
+wpython:S117È"ZRename this local variable "BLongLong" to match the regular expression ^[_a-z][a-z0-9_]*$.(®Ş¬ıüÿÿÿÿ
+spython:S117Á"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢†Âøÿÿÿÿ
+Ipython:S5806Ã"+Rename this variable; it shadows a builtin.(‹ŸÌğıÿÿÿÿ
+npython:S117ô"VRename this local variable "BFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÅº¹
+npython:S117ó"VRename this local variable "BType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í¾Àƒ
+Ipython:S5806õ"+Rename this variable; it shadows a builtin.(‹ŸÌğıÿÿÿÿ
+Gpython:S1172".Remove the unused function parameter "module".(À½¤Ø
+Epython:S1172",Remove the unused function parameter "name".(À½¤Ø
+7python:S125¸"Remove this commented out code.(ãàëµ
+tpython:S117á"WRename this local variable "BArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(°È‘ıùÿÿÿÿ
+npython:S117Ò"VRename this local variable "BFunc" to match the regular expression ^[_a-z][a-z0-9_]*$.(è¸ğ
+rpython:S117Õ"ZRename this local variable "BItemType" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒÖã¶
+Ipython:S5806Ó"+Rename this variable; it shadows a builtin.(‹ŸÌğıÿÿÿÿ

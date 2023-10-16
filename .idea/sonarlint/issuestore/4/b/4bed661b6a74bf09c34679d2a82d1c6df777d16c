@@ -1,0 +1,5 @@
+
+jpython:S1192L"MDefine a constant instead of duplicating this literal "outlived run" 3 times.(Ό‰²όÿÿÿÿ
+ipython:S1192Ί"KDefine a constant instead of duplicating this literal "cleaned up" 3 times.(¬¬πέÿÿÿÿÿ
+Opython:S1481h"7Replace unused local variable "exc_traceback" with "_".(¨ƒ‚§
+Dpython:S5806€"+Rename this variable; it shadows a builtin.(­Ϋ…½

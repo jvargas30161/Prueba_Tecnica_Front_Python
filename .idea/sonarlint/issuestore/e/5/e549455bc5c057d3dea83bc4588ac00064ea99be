@@ -1,0 +1,12 @@
+
+epython:S1192Œ"LDefine a constant instead of duplicating this literal "waiter done" 4 times.(à¿ÑÁ
+@python:S2201"(The return value of "repr" must be used.(„ÍŒì
+Wpython:S1244":Do not perform equality checks with floating point values.(Ûÿä¬ùÿÿÿÿ
+Wpython:S1244":Do not perform equality checks with floating point values.(Ûÿä¬ùÿÿÿÿ
+Wpython:S1244"":Do not perform equality checks with floating point values.(Ûÿä¬ùÿÿÿÿ
+Rpython:S1244$":Do not perform equality checks with floating point values.(žÎæÿ
+Rpython:S1244'":Do not perform equality checks with floating point values.(üÀ¹À
+Rpython:S1244*":Do not perform equality checks with floating point values.(žÎæÿ
+Rpython:S1244-":Do not perform equality checks with floating point values.(§Á«…
+Rpython:S12440":Do not perform equality checks with floating point values.(ü¡ûÍ
+Rpython:S12442":Do not perform equality checks with floating point values.(‘ÅÊë

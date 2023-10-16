@@ -1,0 +1,41 @@
+
+upython:S1192Ö"]Define a constant instead of duplicating this literal "I/O operation on closed file" 4 times.(«‚x
+jpython:S1192ª"LDefine a constant instead of duplicating this literal "tarfile: %s" 3 times.(å©Í«ùÿÿÿÿ
+;python:S125C"Remove this commented out code.(¹Îõ§þÿÿÿÿ
+>python:S1481ñ"%Remove the unused local variable "i".(†ùçÌ
+6python:S3626¡"Remove this redundant return.(ÙãÞŸ
+>python:S1481–"%Remove the unused local variable "b".(¥ê™ü
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ê£¸ 
+mpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(à‘Ú½
+Cpython:S1481Í"%Remove the unused local variable "i".(ÄßìÎúÿÿÿÿ
+rpython:S3776•"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(„¢Ïúÿÿÿÿ
+Npython:S1481§	"0Replace unused local variable "blocks" with "_".(½Î„€þÿÿÿÿ
+>python:S1481š
+"%Remove the unused local variable "i".(¨ŽùÇ
+Dpython:S5806ê
+"+Rename this variable; it shadows a builtin.(¢Òß»
+Cpython:S1481ƒ"%Remove the unused local variable "i".(ØÈøÏøÿÿÿÿ
+rpython:S3776”"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(²¿¿±úÿÿÿÿ
+Dpython:S5806Ù"+Rename this variable; it shadows a builtin.(¢Òß»
+Qpython:S1172ú"3Remove the unused function parameter "pax_headers".(•Ãº¬úÿÿÿÿ
+Qpython:S1172‹"3Remove the unused function parameter "pax_headers".(þŸŽûÿÿÿÿ
+Npython:S1172›"0Remove the unused function parameter "encoding".(ð·Š¾ùÿÿÿÿ
+Lpython:S1172›".Remove the unused function parameter "errors".(ð·Š¾ùÿÿÿÿ
+rpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ð·Š¾ùÿÿÿÿ
+mpython:S3776þ"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ï Ôà
+Cpython:S1481Œ"%Remove the unused local variable "e".(µÚ’Ûùÿÿÿÿ
+mpython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(õÄÍ
+Npython:S1481Œ"0Replace unused local variable "blocks" with "_".(ãå˜èùÿÿÿÿ
+Epython:S1481Â"-Replace unused local variable "drv" with "_".(ÍÁ«]
+mpython:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(þîØé
+Ipython:S5806Ý"+Rename this variable; it shadows a builtin.(±¼¿˜ÿÿÿÿÿ
+rpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ýÊ§¥üÿÿÿÿ
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼ô·Ü
+mpython:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Âðª¾
+Mpython:S1172¥"/Remove the unused function parameter "tarinfo".(Š‡ƒüþÿÿÿÿ
+Hpython:S1172È"/Remove the unused function parameter "tarinfo".(’Ý‹Ô
+Jpython:S1481ñ",Remove the unused local variable "linkpath".(Çâ‰µúÿÿÿÿ
+>python:S1481"%Remove the unused local variable "e".(”Ü°Ç
+>python:S1481˜"%Remove the unused local variable "e".(”Ü°Ç
+>python:S1481¢"%Remove the unused local variable "e".(”Ü°Ç
+rpython:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(çî‡®úÿÿÿÿ

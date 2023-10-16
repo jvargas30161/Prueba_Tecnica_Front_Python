@@ -1,0 +1,21 @@
+
+dpython:S1192"KDefine a constant instead of duplicating this literal b"0\r\n\r\n" 5 times.(´î´Î
+epython:S5799Ä"GMerge these implicitly concatenated strings; or did you forget a comma?(¶—í©şÿÿÿÿ
+epython:S5799Ğ"GMerge these implicitly concatenated strings; or did you forget a comma?(›éöÈüÿÿÿÿ
+epython:S5799Ø"GMerge these implicitly concatenated strings; or did you forget a comma?(‰çÀ£ùÿÿÿÿ
+epython:S5799á"GMerge these implicitly concatenated strings; or did you forget a comma?(à¿ûËúÿÿÿÿ
+_python:S5799§"GMerge these implicitly concatenated strings; or did you forget a comma?(”õór
+epython:S5799®"GMerge these implicitly concatenated strings; or did you forget a comma?(ŠƒÂåùÿÿÿÿ
+`python:S5799´"GMerge these implicitly concatenated strings; or did you forget a comma?(÷à¾
+`python:S5799º"GMerge these implicitly concatenated strings; or did you forget a comma?(÷à¾
+`python:S5799¾"GMerge these implicitly concatenated strings; or did you forget a comma?(²±«
+wpython:S1542û"^Rename function "test_ContentLengthReader" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºìÄ
+upython:S1542…"WRename function "test_Http10Reader" to match the regular expression ^[a-z_][a-z0-9_]*$.(²¿Ãßúÿÿÿÿ
+qpython:S1542"XRename function "test_ChunkedReader" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘ÄĞŞ
+wpython:S1542Ê"^Rename function "test_ContentLengthWriter" to match the regular expression ^[a-z_][a-z0-9_]*$.(£š¥
+Rpython:S905ß":Remove or refactor this statement; it has no side effects.(’øì½
+Wpython:S905à":Remove or refactor this statement; it has no side effects.(ıúîùÿÿÿÿ
+ppython:S1542å"XRename function "test_ChunkedWriter" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÖÖæF
+upython:S1542ô"WRename function "test_Http10Writer" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö¬ú²ıÿÿÿÿ
+_python:S5799†"GMerge these implicitly concatenated strings; or did you forget a comma?(Â¥Å
+epython:S5799"GMerge these implicitly concatenated strings; or did you forget a comma?(Ğ‰Øıÿÿÿÿ

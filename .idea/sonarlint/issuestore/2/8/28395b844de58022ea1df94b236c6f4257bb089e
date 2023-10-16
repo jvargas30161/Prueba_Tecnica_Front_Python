@@ -1,0 +1,6 @@
+
+ƒpython:S1542"fRename function "test_WaitForMultipleObjects_sync" to match the regular expression ^[a-z_][a-z0-9_]*$.(—Îåºûÿÿÿÿ
+ˆpython:S1542I"kRename function "test_WaitForMultipleObjects_sync_slow" to match the regular expression ^[a-z_][a-z0-9_]*$.(®ñÄ‘ıÿÿÿÿ
+|python:S1542€"^Rename function "test_WaitForSingleObject" to match the regular expression ^[a-z_][a-z0-9_]*$.(· –úÿÿÿÿ
+<python:S125"Remove this commented out code.(ª°¼¨ıÿÿÿÿ
+python:S1542£"cRename function "test_WaitForSingleObject_slow" to match the regular expression ^[a-z_][a-z0-9_]*$.(­‰ôşÿÿÿÿ

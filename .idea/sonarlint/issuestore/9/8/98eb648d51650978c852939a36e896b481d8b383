@@ -1,0 +1,24 @@
+
+python:S1192ã"fDefine a constant instead of duplicating this literal "SOCKS5 proxy server sent invalid data" 5 times.(åŸ™•
+Bpython:S1481/"%Remove the unused local variable "e".(¼–¯¸ÿÿÿÿÿ
+ppython:S27370"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
+Epython:S1481¹",Replace unused local variable "sa" with "_".(ÇÑŸ²
+Lpython:S1481¹"3Replace unused local variable "canonname" with "_".(ÇÑŸ²
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ë–İ¹
+Apython:S1481¥"(Remove the unused local variable "peer".(üÁ¼½
+Ipython:S5806¡"+Rename this variable; it shadows a builtin.(¯Ñ«°ÿÿÿÿÿ
+Lpython:S1481Ê".Replace unused local variable "rdns" with "_".(ÑÒ…•ıÿÿÿÿ
+Lpython:S1481Ê".Replace unused local variable "port" with "_".(ÑÒ…•ıÿÿÿÿ
+Lpython:S1481Ê".Replace unused local variable "addr" with "_".(ÑÒ…•ıÿÿÿÿ
+Rpython:S1481Ê"4Replace unused local variable "proxy_type" with "_".(ÑÒ…•ıÿÿÿÿ
+mpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(œúŞ¤
+Ppython:S1481­"2Replace unused local variable "password" with "_".(äÑ•øÿÿÿÿ
+Ppython:S1481­"2Replace unused local variable "username" with "_".(äÑ•øÿÿÿÿ
+Rpython:S1481­"4Replace unused local variable "proxy_type" with "_".(äÑ•øÿÿÿÿ
+Lpython:S1481å".Replace unused local variable "addr" with "_".(ÑÒ…•ıÿÿÿÿ
+Lpython:S1481å".Replace unused local variable "port" with "_".(ÑÒ…•ıÿÿÿÿ
+Ppython:S1481å"2Replace unused local variable "password" with "_".(ÑÒ…•ıÿÿÿÿ
+Rpython:S1481å"4Replace unused local variable "proxy_type" with "_".(ÑÒ…•ıÿÿÿÿ
+Rpython:S1481£"4Replace unused local variable "proxy_type" with "_".(ÑÒ…•ıÿÿÿÿ
+Lpython:S1481£".Replace unused local variable "port" with "_".(ÑÒ…•ıÿÿÿÿ
+rpython:S3776á"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÉÖüÿÿÿÿ

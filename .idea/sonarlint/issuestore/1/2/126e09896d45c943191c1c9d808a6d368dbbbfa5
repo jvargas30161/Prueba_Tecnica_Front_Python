@@ -1,0 +1,18 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(½ºß°
+mpython:S1542"PRename function "test_Event" to match the regular expression ^[a-z_][a-z0-9_]*$.(øÌø³ÿÿÿÿÿ
+wpython:S1542)"ZRename function "test_CapacityLimiter" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğ½µÉşÿÿÿÿ
+@python:S2201/"(The return value of "repr" must be used.(„ÍŒì
+{python:S1542n"^Rename function "test_CapacityLimiter_inf" to match the regular expression ^[a-z_][a-z0-9_]*$.(†ø¿ùÿÿÿÿ
+@python:S2201r"(The return value of "repr" must be used.(„ÍŒì
+‹python:S1542~"nRename function "test_CapacityLimiter_change_total_tokens" to match the regular expression ^[a-z_][a-z0-9_]*$.(Şíû‘ıÿÿÿÿ
+python:S1542£"fRename function "test_CapacityLimiter_memleak_548" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÚØúã
+lpython:S1542±"TRename function "test_Semaphore" to match the regular expression ^[a-z_][a-z0-9_]*$.(¦µû:
+Apython:S2201·"(The return value of "repr" must be used.(Š¨à¯
+zpython:S1542á"\Rename function "test_Semaphore_bounded" to match the regular expression ^[a-z_][a-z0-9_]*$.(Úø£‹ÿÿÿÿÿ
+Apython:S2201è"(The return value of "repr" must be used.(‹å»¯
+€python:S1542ó"bRename function "test_Lock_and_StrictFIFOLock" to match the regular expression ^[a-z_][a-z0-9_]*$.(°•ëôıÿÿÿÿ
+Fpython:S2201û"(The return value of "repr" must be used.(éÍåÕùÿÿÿÿ
+Apython:S2201"(The return value of "repr" must be used.(™ŞÜÒ
+mpython:S1542¾"TRename function "test_Condition" to match the regular expression ^[a-z_][a-z0-9_]*$.(è‚´¼
+Apython:S108®")Either remove or fill this block of code.(ã‘Û¾

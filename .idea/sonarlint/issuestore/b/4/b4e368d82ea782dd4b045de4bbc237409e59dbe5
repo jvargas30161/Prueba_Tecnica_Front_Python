@@ -1,0 +1,9 @@
+
+apython:S5797¼"HReplace this expression; used as a condition it will always be constant.(·Áµ
+Hpython:S5806+"+Rename this variable; it shadows a builtin.(åÅ°“üÿÿÿÿ
+Lpython:S1481".Replace unused local variable "type" with "_".(ğùĞ±ıÿÿÿÿ
+Ipython:S5806"+Rename this variable; it shadows a builtin.(ğùĞ±ıÿÿÿÿ
+Jpython:S1172",Remove the unused function parameter "args".(†‡¾ôùÿÿÿÿ
+Opython:S1172"1Remove the unused function parameter "operation".(†‡¾ôùÿÿÿÿ
+Hpython:S1172"*Remove the unused function parameter "kw".(†‡¾ôùÿÿÿÿ
+Jpython:S1172…"1Remove the unused function parameter "operation".(îø†ª

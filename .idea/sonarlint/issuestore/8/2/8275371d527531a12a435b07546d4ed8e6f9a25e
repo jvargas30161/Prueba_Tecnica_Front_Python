@@ -1,0 +1,23 @@
+
+apython:S5797²"HReplace this expression; used as a condition it will always be constant.(¦‹Å÷
+qpython:S3776\"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(é¨÷Şüÿÿÿÿ
+Cpython:S5806_"+Rename this variable; it shadows a builtin.(¤ÌŠÀ
+´python:S1515t"›Add a parameter to function "_replacer" and use variable "variables" as its default value;The value of "variables" might change at the next loop iteration.(Æîüò
+Dpython:S5806¤"+Rename this variable; it shadows a builtin.(ƒª×•
+mpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(ƒÈí€
+Zpython:S6353å"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(«—àE
+Ypython:S6353æ"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(öÜ]
+[python:S6353ç"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(ŞÅì…
+Dpython:S5806ê"+Rename this variable; it shadows a builtin.(ƒª×•
+Dpython:S5806’"+Rename this variable; it shadows a builtin.(ƒª×•
+[python:S6353“"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(üÏİÚ
+[python:S6353”"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(®°˜ß
+rpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(úèå‹úÿÿÿÿ
+Gpython:S1481Œ".Replace unused local variable "host" with "_".(ÔÁ›Ô
+rpython:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(‚©âëùÿÿÿÿ
+/python:S6659”"Use `startswith` here.(ÇÍ«Ó
+/python:S6659™"Use `startswith` here.(¾œÅÉ
+4python:S6659"Use `startswith` here.(® Ôúÿÿÿÿ
+/python:S6659 "Use `startswith` here.(ÿŒá‚
+.python:S6659¢"Use `startswith` here.(³ÒÊ
+/python:S6659¨"Use `startswith` here.(¨À

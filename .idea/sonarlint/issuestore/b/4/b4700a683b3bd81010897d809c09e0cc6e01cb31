@@ -1,0 +1,51 @@
+
+mpython:S1192µ"ODefine a constant instead of duplicating this literal 'argument of %s' 4 times.(­ìŒ“ıÿÿÿÿ
+dpython:S1192»"KDefine a constant instead of duplicating this literal '(size_t)-1' 3 times.(‰œÛ‹
+dpython:S1192Ò"FDefine a constant instead of duplicating this literal '  %s;' 3 times.(ó«Õòøÿÿÿÿ
+fpython:S1192İ"MDefine a constant instead of duplicating this literal 'result of %s' 3 times.(€™ãû
+hpython:S1192ã"ODefine a constant instead of duplicating this literal '_cffi_const_%s' 3 times.(öÁ°¶
+epython:S1192Ì"GDefine a constant instead of duplicating this literal '#endif' 6 times.(´ø©ãüÿÿÿÿ
+_python:S1192É"FDefine a constant instead of duplicating this literal '#else' 3 times.(í˜¬Ó
+^python:S2208"GImport only needed names or import the module and then use its members.(ô—A
+~python:S116ô
+"gRename this field "_emit_bytecode_ConstPointerType" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ã¦ÿ5
+}python:S116"`Rename this field "_emit_bytecode_UnionType" to match the regular expression ^[_a-z][_a-z0-9]*$.(ºùÍüÿÿÿÿ
+„python:S116õ
+"gRename this field "_emit_bytecode_NamedPointerType" to match the regular expression ^[_a-z][_a-z0-9]*$.(Í÷åıÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¬Â¼Ù
+rpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(×ı¥Úıÿÿÿÿ
+mpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ã·¼
+Ppython:S1481†"2Remove the unused local variable "typeindex2type".(¨‘ô‰ıÿÿÿÿ
+rpython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ş¸ëÿÿÿÿÿ
+wpython:S1186‡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÿæÎüÿÿÿÿ
+Epython:S1172š",Remove the unused function parameter "name".(¿µÔÊ
+mpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(¨Œ³ş
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(†©”
+Epython:S1172Ï",Remove the unused function parameter "name".(½éÂ
+Epython:S1172è",Remove the unused function parameter "name".(£ò·›
+Jpython:S1172ë",Remove the unused function parameter "name".(›Áäûÿÿÿÿ
+Jpython:S1172„	",Remove the unused function parameter "name".(¸ƒçúøÿÿÿÿ
+7python:S125¢	"Remove this commented out code.(ãàëµ
+Dpython:S5806Œ
+"+Rename this variable; it shadows a builtin.(¶×ÆØ
+Hpython:S1172Ë
+"*Remove the unused function parameter "tp".(“¹ûÿÿÿÿ
+xpython:S100Ë
+"[Rename method "_emit_bytecode_VoidType" to match the regular expression ^[a-z_][a-z0-9_]*$.(“¹ûÿÿÿÿ
+xpython:S100Î
+"`Rename method "_emit_bytecode_PrimitiveType" to match the regular expression ^[a-z_][a-z0-9_]*$.(å¼â­
+‚python:S100Ò
+"eRename method "_emit_bytecode_UnknownIntegerType" to match the regular expression ^[a-z_][a-z0-9_]*$.(İÆ§ßúÿÿÿÿ
+€python:S100Ø
+"cRename method "_emit_bytecode_UnknownFloatType" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğôì³şÿÿÿÿ
+python:S100Ş
+"bRename method "_emit_bytecode_RawFunctionType" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼«î ıÿÿÿÿ
+{python:S100ñ
+"^Rename method "_emit_bytecode_PointerType" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ï”Ùïùÿÿÿÿ
+python:S100÷
+"bRename method "_emit_bytecode_FunctionPtrType" to match the regular expression ^[a-z_][a-z0-9_]*$.(‹ÎÏéşÿÿÿÿ
+ypython:S100û
+"\Rename method "_emit_bytecode_ArrayType" to match the regular expression ^[a-z_][a-z0-9_]*$.(šÈÊùÿÿÿÿ
+zpython:S100‰"]Rename method "_emit_bytecode_StructType" to match the regular expression ^[a-z_][a-z0-9_]*$.(…ÍÂôøÿÿÿÿ
+xpython:S100"[Rename method "_emit_bytecode_EnumType" to match the regular expression ^[a-z_][a-z0-9_]*$.(ôöØïûÿÿÿÿ
+rpython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(âüâÀúÿÿÿÿ

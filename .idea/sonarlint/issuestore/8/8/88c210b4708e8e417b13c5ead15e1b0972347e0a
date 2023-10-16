@@ -1,0 +1,7 @@
+
+Ipython:S5806¯"+Rename this variable; it shadows a builtin.(§âˆõúÿÿÿÿ
+rpython:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Ç¹óûÿÿÿÿ
+Apython:S108ú")Either remove or fill this block of code.(ã‘Û¾
+tpython:S117©"WRename this local variable "lCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÉŠ®þÿÿÿÿ
+tpython:S117¨"WRename this local variable "uCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ýˆüäýÿÿÿÿ
+>python:S1481¯"%Remove the unused local variable "t".(è‹ÆÎ

@@ -1,0 +1,12 @@
+
+wpython:S1542"ZRename function "test_ConnectionState" to match the regular expression ^[a-z_][a-z0-9_]*$.(¤¾ºòşÿÿÿÿ
+‚python:S1542="eRename function "test_ConnectionState_keep_alive" to match the regular expression ^[a-z_][a-z0-9_]*$.(™ë©¤şÿÿÿÿ
+;python:S125>"Remove this commented out code.(Â€İÈûÿÿÿÿ
+„python:S1542J"mRename function "test_ConnectionState_keep_alive_in_DONE" to match the regular expression ^[a-z_][a-z0-9_]*$.(²·¤"
+€python:S1542V"hRename function "test_ConnectionState_switch_denied" to match the regular expression ^[a-z_][a-z0-9_]*$.(²Úäœ
+Œpython:S1542‚"sRename function "test_ConnectionState_protocol_switch_accepted" to match the regular expression ^[a-z_][a-z0-9_]*$.(¾ƒš
+Špython:S1542”"qRename function "test_ConnectionState_double_protocol_switch" to match the regular expression ^[a-z_][a-z0-9_]*$.(•Ç‚ç
+•python:S1542§"wRename function "test_ConnectionState_inconsistent_protocol_switch" to match the regular expression ^[a-z_][a-z0-9_]*$.(½ª—øüÿÿÿÿ
+špython:S1542¶"€Rename function "test_ConnectionState_keepalive_protocol_switch_interaction" to match the regular expression ^[a-z_][a-z0-9_]*$.(©ˆô÷
+<python:S125·"Remove this commented out code.(—‹ôˆÿÿÿÿÿ
+~python:S1542È"`Rename function "test_ConnectionState_reuse" to match the regular expression ^[a-z_][a-z0-9_]*$.(©™ÜÚûÿÿÿÿ

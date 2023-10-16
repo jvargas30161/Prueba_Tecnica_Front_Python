@@ -1,0 +1,12 @@
+
+jpython:S1192L"MDefine a constant instead of duplicating this literal "example.com" 10 times.(§ì”ìøÿÿÿÿ
+_python:S1192š"FDefine a constant instead of duplicating this literal "a.com" 5 times.(³¹¶Š
+dpython:S1192 "LDefine a constant instead of duplicating this literal "Example.com" 3 times.(§¦Ó»
+npython:S1192×"PDefine a constant instead of duplicating this literal "example.com:443" 3 times.(·€ûÅþÿÿÿÿ
+qpython:S1192…"XDefine a constant instead of duplicating this literal b"GET / HTTP/1.0\r\n\r\n" 5 times.(Â„¢œ
+dpython:S5655d"GChange this argument; Function "_body_framing" expects a different type(ã†Ý°øÿÿÿÿ
+Œpython:S1542h"oRename function "test_Connection_basics_and_content_length" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼„ö‚ýÿÿÿÿ
+dpython:S5799{"GMerge these implicitly concatenated strings; or did you forget a comma?(Í™Ý­ûÿÿÿÿ
+]python:S5655ƒ"?Change this argument; Function "setup" expects a different type(¯œ¨Ìúÿÿÿÿ
+}python:S1542š"_Rename function "test_HEAD_framing_headers" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶Ó¥‘úÿÿÿÿ
+`python:S5799Ç"GMerge these implicitly concatenated strings; or did you forget a comma?(€òëÃ

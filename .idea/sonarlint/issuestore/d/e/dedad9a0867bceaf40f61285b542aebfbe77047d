@@ -1,0 +1,20 @@
+
+`python:S2208ë"GImport only needed names or import the module and then use its members.(÷¾©¥
+`python:S2208î"GImport only needed names or import the module and then use its members.(Éıæ
+_python:S2208ñ"GImport only needed names or import the module and then use its members.(Öá³
+epython:S2208ö"GImport only needed names or import the module and then use its members.(©ä«Şùÿÿÿÿ
+ppython:S2737Z"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»
+Rpython:S1172¿"4Remove the unused function parameter "cancel_scope".(Š¢şÖûÿÿÿÿ
+Npython:S1172¿"0Remove the unused function parameter "deadline".(Š¢şÖûÿÿÿÿ
+mpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼Ÿçƒ
+Cpython:S2201ä"*The return value of "locals" must be used.(œÎÜ
+Rpython:S1135å"4Complete the task associated to this "TODO" comment.(…¼íşÿÿÿÿ
+Tpython:S5722ÿ";Add 3 parameters. Method __exit__ should have 4 parameters.(È¢¼¡
+Vpython:S5754÷"8Catch a more specific exception or reraise the exception(ÛşƒÙşÿÿÿÿ
+Vpython:S5754Í"8Catch a more specific exception or reraise the exception(ÛşƒÙşÿÿÿÿ
+rpython:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 87 to the 15 allowed.(Š½ó…ûÿÿÿÿ
+Vpython:S5754ï"8Catch a more specific exception or reraise the exception(ÛşƒÙşÿÿÿÿ
+Vpython:S5754¤"8Catch a more specific exception or reraise the exception(›ŒÖŠÿÿÿÿÿ
+Rpython:S1135Û"4Complete the task associated to this "TODO" comment.(Ù£©µúÿÿÿÿ
+Mpython:S1135â"4Complete the task associated to this "TODO" comment.(ŒÄã±
+rpython:S1186‡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ƒßÈÉ

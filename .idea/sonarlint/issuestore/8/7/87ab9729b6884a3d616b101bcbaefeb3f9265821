@@ -1,0 +1,28 @@
+
+mpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ø€‚ø
+vpython:S3699ƒ"XRemove this use of the output from "subst_vars"; "subst_vars" doesnâ€™t return anything.(ÄŸ§·øÿÿÿÿ
+rpython:S1186¿"YAdd a nested comment explaining why this method is empty, or complete the implementation.(½–½±
+rpython:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ô›×¶ûÿÿÿÿ
+rpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠÄÅøÿÿÿÿ
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(·Ø«Ëûÿÿÿÿ
+epython:S1134Ô"LTake the required action to fix the issue indicated by this "FIXME" comment.(÷Ÿ‘Ï
+rpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ç ç™ÿÿÿÿÿ
+epython:S1134Œ"LTake the required action to fix the issue indicated by this "FIXME" comment.(Äãñó
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ËÜÿæ
+dpython:S1134ğ"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÄîB
+rpython:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(äóîòøÿÿÿÿ
+dpython:S1226ù"KIntroduce a new variable or use its initial value before reassigning 'dst'.(¡‰
+Rpython:S1135ß"4Complete the task associated to this "TODO" comment.(¢ßÂšøÿÿÿÿ
+Zpython:S5754ƒ	"BReraise this exception to stop the application as the user expects(š¿°u
+mpython:S3776·	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(­°­Ñ
+qpython:S3699Ò
+"XRemove this use of the output from "subst_vars"; "subst_vars" doesnâ€™t return anything.(æ¡‘®
+lpython:S3776£"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(”ŠŠ:
+Hpython:S1481á"/Replace unused local variable "bmlen" with "_".(Ï´œü
+rpython:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(àç­Ãøÿÿÿÿ
+rpython:S3776­"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆ¶›‰ıÿÿÿÿ
+Spython:S2836‡"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+Jpython:S1481µ",Replace unused local variable "et" with "_".(–áÿÃøÿÿÿÿ
+gpython:S5632·"IChange this code so that it raises an object deriving from BaseException.(˜Ğğ½øÿÿÿÿ
+Rpython:S1135¶"4Complete the task associated to this "TODO" comment.(Ğçøõúÿÿÿÿ
+Epython:S1172ë",Remove the unused function parameter "name".(“½çÌ

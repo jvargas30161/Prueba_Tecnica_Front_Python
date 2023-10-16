@@ -1,0 +1,11 @@
+
+Lpython:S1066'"/Merge this if statement with the enclosing one.(ş…Ôµøÿÿÿÿ
+Qpython:S3516I"9Refactor this method to not always return the same value.(Ğ€Øû
+lpython:S3776I"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(Ğ€Øû
+Dpython:S1940g"-Use the opposite operator ("not in") instead.(‡‘ßn
+Jpython:S1940x"-Use the opposite operator ("not in") instead.(ü¬•­øÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¤ƒşÿÿÿÿ
+Opython:S1172É"1Remove the unused function parameter "exception".(Ç­öÄùÿÿÿÿ
+rpython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(Ç­öÄùÿÿÿÿ
+mpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(í …
+rpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(™àÀÙıÿÿÿÿ
