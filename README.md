@@ -60,6 +60,10 @@ que contiene las funciones a ejecutar.Por último se envía instrucción para ce
     * tomar_screenshot(driver, nombre_archivo)
     * manejar_errores(driver)
 
+- screenshot.png
+  - 
+  Contiene la captura de la pantalla generada desde url wikipedia.
+
 - Contribuciones
   - 
 - Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, no dudes en crear un pull request.
